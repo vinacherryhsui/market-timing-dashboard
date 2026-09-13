@@ -144,7 +144,7 @@ test("periodic-file preparation reads cache without redownload", async () => {
   assert.equal(result.cacheStatus, "PERIODIC_FILE_CACHE");
 });
 
-test("provider failure returns not-ready and preserves prior cache", async () => {
+test("provider failure uses sufficient prior cache", async () => {
   let writes = 0;
   const previous = {
     retrievedAt: "2020-01-01T00:00:00.000Z",
@@ -157,9 +157,28 @@ test("provider failure returns not-ready and preserves prior cache", async () =>
     now: () => new Date("2026-09-06T00:00:00.000Z"),
   });
   const result = await service.prepare(entry());
-  assert.equal(result.ready, false);
+  assert.equal(result.ready, true);
+  assert.equal(result.reason, null);
   assert.equal(result.cacheStatus, "PREVIOUS_CACHE_RETAINED");
   assert.match(result.error, /NETWORK: offline/);
   assert.equal(writes, 0);
   assert.equal(result.preparedObservations.length, 3);
+});
+
+test("provider failure remains not-ready when prior cache is insufficient", async () => {
+  const previous = {
+    retrievedAt: "2020-01-01T00:00:00.000Z",
+    observations: [observation("2026-03-01", 1)],
+  };
+  const service = new HistoryPreparationService({
+    adapters: { TEST: { getHistory: async () => { throw Object.assign(new Error("offline"), { code: "NETWORK" }); } } },
+    sourceConfigs: [{ indicatorId: "indicator", datasetId: "SERIES", provider: "TEST" }],
+    historyCache: { read: async () => previous, write: async () => assert.fail("must not write") },
+    now: () => new Date("2026-09-06T00:00:00.000Z"),
+  });
+  const result = await service.prepare(entry());
+  assert.equal(result.ready, false);
+  assert.equal(result.reason, "HISTORY_FETCH_FAILED");
+  assert.equal(result.cacheStatus, "PREVIOUS_CACHE_RETAINED");
+  assert.match(result.error, /NETWORK: offline/);
 });

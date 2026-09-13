@@ -130,8 +130,10 @@ export class HistoryPreparationService {
     } catch (error) {
       return {
         ...cachedReadiness,
-        ready: false,
-        reason: "HISTORY_FETCH_FAILED",
+        ...(cachedReadiness.ready ? {} : {
+          ready: false,
+          reason: "HISTORY_FETCH_FAILED",
+        }),
         error: `${error.code ?? "HISTORY_ERROR"}: ${error.message}`,
         retrievedAt: cached?.retrievedAt ?? null,
         cacheStatus: cached ? "PREVIOUS_CACHE_RETAINED" : "NO_CACHE",
