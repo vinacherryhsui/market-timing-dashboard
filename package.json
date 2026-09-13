@@ -1,0 +1,29 @@
+{
+  "name": "market-timing-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "node --env-file-if-exists=.env server.js",
+    "preview": "vite preview",
+    "test": "node --test --test-concurrency=1",
+    "verify:fred": "node scripts/verify-fred.mjs",
+    "verify:non-fred": "node --use-system-ca scripts/verify-non-fred.mjs",
+    "verify:history": "node --use-system-ca scripts/verify-history.mjs",
+    "verify:signals": "node --use-system-ca scripts/verify-signals.mjs",
+    "sync:research-data": "node --use-system-ca scripts/sync-research-data.mjs"
+  },
+  "dependencies": {
+    "driver.js": "^1.8.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^16.3.3",
+    "jsdom": "^29.1.1",
+    "vite": "^8.2.2"
+  }
+}

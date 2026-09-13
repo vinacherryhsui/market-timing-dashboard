@@ -1,0 +1,4020 @@
+{
+  "indicatorId": "trade_policy_uncertainty",
+  "provider": "CALDARA_IACOVIELLO",
+  "datasetId": "TPU_MONTHLY:TPU",
+  "source": "https://www.matteoiacoviello.com/tpu_files/tpu_web_latest.xlsx",
+  "frequency": "Monthly",
+  "unit": "Index (100 = 1% article share)",
+  "retrievedAt": "2026-09-02T13:41:43.269Z",
+  "metadata": {
+    "sourcePage": "https://www.matteoiacoviello.com/tpu.htm",
+    "citation": "Caldara, Iacoviello, Molligo, Prestipino, and Raffo (2020), The Economic Effects of Trade Policy Uncertainty.",
+    "license": "Free use with attribution to the authors, paper, and website",
+    "revisionNote": "Latest observations are preliminary; delayed newspaper ingestion and archive corrections may revise recent or earlier data.",
+    "acquisitionMode": "PERIODIC_FILE",
+    "sheet": "TPU_MONTHLY",
+    "valueColumn": "TPU"
+  },
+  "observations": [
+    {
+      "observationDate": "1960-01-01",
+      "value": 18.12970085993581,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1960-02-01",
+      "value": 11.49271682480289,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1960-03-01",
+      "value": 15.22548214026777,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1960-04-01",
+      "value": 18.04697156983931,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1960-05-01",
+      "value": 17.72379241894319,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1960-06-01",
+      "value": 15.01501501501502,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1960-07-01",
+      "value": 18.52763901592439,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1960-08-01",
+      "value": 13.3214920071048,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1960-09-01",
+      "value": 14.65928973376838,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1960-10-01",
+      "value": 13.7684152554041,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1960-11-01",
+      "value": 17.64576134107786,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1960-12-01",
+      "value": 18.15649405561359,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1961-01-01",
+      "value": 14.0889547453057,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1961-02-01",
+      "value": 21.03806228373702,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1961-03-01",
+      "value": 20.09377093101138,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1961-04-01",
+      "value": 9.647256715974867,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1961-05-01",
+      "value": 17.74797870242556,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1961-06-01",
+      "value": 17.38911290322581,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1961-07-01",
+      "value": 20.18570851836899,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1961-08-01",
+      "value": 15.21311475409836,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1961-09-01",
+      "value": 16.49199340320264,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1961-10-01",
+      "value": 14.70727773033495,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1961-11-01",
+      "value": 38.55323897935373,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1961-12-01",
+      "value": 40.57364499336531,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1962-01-01",
+      "value": 56.67157016422697,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1962-02-01",
+      "value": 28.53926112114785,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1962-03-01",
+      "value": 31.0852195537544,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1962-04-01",
+      "value": 25.07303383709429,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1962-05-01",
+      "value": 29.84169911174317,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1962-06-01",
+      "value": 39.28770689975823,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1962-07-01",
+      "value": 29.17631172839506,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1962-08-01",
+      "value": 25.89169046121086,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1962-09-01",
+      "value": 39.67974454697001,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1962-10-01",
+      "value": 24.52984464431725,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1962-11-01",
+      "value": 21.26516018975066,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1962-12-01",
+      "value": 24.77427879321735,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1963-01-01",
+      "value": 43.79325259515571,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1963-02-01",
+      "value": 41.83479705672917,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1963-03-01",
+      "value": 26.33118782913985,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1963-04-01",
+      "value": 25.7914911741044,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1963-05-01",
+      "value": 27.7112707280305,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1963-06-01",
+      "value": 20.65444418658621,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1963-07-01",
+      "value": 24.51569485170408,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1963-08-01",
+      "value": 23.16196661811409,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1963-09-01",
+      "value": 26.94916829290958,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1963-10-01",
+      "value": 24.17051197539002,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1963-11-01",
+      "value": 25.31587305240385,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1963-12-01",
+      "value": 27.97552709987036,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1964-01-01",
+      "value": 30.74201039478049,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1964-02-01",
+      "value": 20.37994031588907,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1964-03-01",
+      "value": 24.71751412429379,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1964-04-01",
+      "value": 15.76150589930649,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1964-05-01",
+      "value": 25.10371237102436,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1964-06-01",
+      "value": 17.18134335196554,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1964-07-01",
+      "value": 12.89460959266849,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1964-08-01",
+      "value": 15.65735643214304,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1964-09-01",
+      "value": 13.08523723535108,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1964-10-01",
+      "value": 25.73655571351537,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1964-11-01",
+      "value": 43.54029322050576,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1964-12-01",
+      "value": 29.30757664568414,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1965-01-01",
+      "value": 35.01700466053659,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1965-02-01",
+      "value": 27.7497477295661,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1965-03-01",
+      "value": 15.79617834394904,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1965-04-01",
+      "value": 16.16130521779283,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1965-05-01",
+      "value": 14.70991548031614,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1965-06-01",
+      "value": 17.28125913912743,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1965-07-01",
+      "value": 17.75492898028408,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1965-08-01",
+      "value": 10.97408026755853,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1965-09-01",
+      "value": 17.8644643589293,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1965-10-01",
+      "value": 17.98610164872598,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1965-11-01",
+      "value": 18.85521885521885,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1965-12-01",
+      "value": 13.41453599120006,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1966-01-01",
+      "value": 18.45444059976932,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1966-02-01",
+      "value": 9.878264911821958,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1966-03-01",
+      "value": 13.33401712908354,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1966-04-01",
+      "value": 17.82104479199915,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1966-05-01",
+      "value": 17.82844515869827,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1966-06-01",
+      "value": 14.18253447143795,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1966-07-01",
+      "value": 11.98665832812174,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1966-08-01",
+      "value": 11.45256728383279,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1966-09-01",
+      "value": 17.63761286755996,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1966-10-01",
+      "value": 14.0781336417115,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1966-11-01",
+      "value": 16.52640410871831,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1966-12-01",
+      "value": 19.3981335849848,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1967-01-01",
+      "value": 19.86281416351068,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1967-02-01",
+      "value": 22.50474937892737,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1967-03-01",
+      "value": 22.17413373941385,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1967-04-01",
+      "value": 28.19473161300717,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1967-05-01",
+      "value": 41.55801825293351,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1967-06-01",
+      "value": 17.67457037198173,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1967-07-01",
+      "value": 19.29746056605884,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1967-08-01",
+      "value": 12.79163538277578,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1967-09-01",
+      "value": 19.89185554590536,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1967-10-01",
+      "value": 25.89860304504787,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1967-11-01",
+      "value": 29.1934955800502,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1967-12-01",
+      "value": 18.75122442696818,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1968-01-01",
+      "value": 32.9507693166904,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1968-02-01",
+      "value": 23.22713847389097,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1968-03-01",
+      "value": 28.35029626059593,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1968-04-01",
+      "value": 16.85790418184784,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1968-05-01",
+      "value": 23.36448598130841,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1968-06-01",
+      "value": 22.86585365853658,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1968-07-01",
+      "value": 20.21193659226749,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1968-08-01",
+      "value": 19.11784787655333,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1968-09-01",
+      "value": 12.45571302037201,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1968-10-01",
+      "value": 17.46817351719027,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1968-11-01",
+      "value": 29.44513479928683,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1968-12-01",
+      "value": 19.36029231314591,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1969-01-01",
+      "value": 22.03856749311295,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1969-02-01",
+      "value": 18.08863430810974,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1969-03-01",
+      "value": 19.12303382891618,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1969-04-01",
+      "value": 15.27692905949669,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1969-05-01",
+      "value": 23.60410223018069,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1969-06-01",
+      "value": 20.50504199320244,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1969-07-01",
+      "value": 16.4328892540642,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1969-08-01",
+      "value": 17.87702948244534,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1969-09-01",
+      "value": 11.91444844821574,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1969-10-01",
+      "value": 21.80332845748351,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1969-11-01",
+      "value": 23.37083537148758,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1969-12-01",
+      "value": 18.84760366182014,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1970-01-01",
+      "value": 23.12203925107151,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1970-02-01",
+      "value": 36.10439678120123,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1970-03-01",
+      "value": 26.00887039369216,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1970-04-01",
+      "value": 20.79179720877243,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1970-05-01",
+      "value": 19.09823133770655,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1970-06-01",
+      "value": 18.97367038356004,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1970-07-01",
+      "value": 32.68459367107413,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1970-08-01",
+      "value": 48.28809960147773,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1970-09-01",
+      "value": 20.71802764376831,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1970-10-01",
+      "value": 22.68280926592758,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1970-11-01",
+      "value": 27.08589299676086,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1970-12-01",
+      "value": 27.29454109178164,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1971-01-01",
+      "value": 26.34607231542608,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1971-02-01",
+      "value": 24.49779519843214,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1971-03-01",
+      "value": 20.77477697665893,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1971-04-01",
+      "value": 17.61161748802719,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1971-05-01",
+      "value": 21.06887444731298,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1971-06-01",
+      "value": 29.39265493023112,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1971-07-01",
+      "value": 27.36403495133555,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1971-08-01",
+      "value": 95.8335951737573,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1971-09-01",
+      "value": 90.21601016518424,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1971-10-01",
+      "value": 67.17682107599742,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1971-11-01",
+      "value": 69.19265167996133,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1971-12-01",
+      "value": 53.95036566358949,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1972-01-01",
+      "value": 42.11610713852865,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1972-02-01",
+      "value": 28.65052794231264,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1972-03-01",
+      "value": 32.20227801300018,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1972-04-01",
+      "value": 26.63775747251045,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1972-05-01",
+      "value": 32.86846470479819,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1972-06-01",
+      "value": 32.05523363333744,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1972-07-01",
+      "value": 27.24709311535659,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1972-08-01",
+      "value": 23.22442958917867,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1972-09-01",
+      "value": 31.42329020332717,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1972-10-01",
+      "value": 28.91166199118337,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1972-11-01",
+      "value": 27.23988867175934,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1972-12-01",
+      "value": 20.5885914981228,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1973-01-01",
+      "value": 26.11044417767107,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1973-02-01",
+      "value": 52.29919084270771,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1973-03-01",
+      "value": 38.20578628091461,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1973-04-01",
+      "value": 37.18240033051023,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1973-05-01",
+      "value": 23.89068554613524,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1973-06-01",
+      "value": 31.73842745074555,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1973-07-01",
+      "value": 27.58620689655172,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1973-08-01",
+      "value": 19.86994219653179,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1973-09-01",
+      "value": 26.87673772011122,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1973-10-01",
+      "value": 26.89335394126739,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1973-11-01",
+      "value": 23.33322963009053,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1973-12-01",
+      "value": 28.07482413803981,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1974-01-01",
+      "value": 25.54640931024695,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1974-02-01",
+      "value": 20.72292431036825,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1974-03-01",
+      "value": 31.78982725527831,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1974-04-01",
+      "value": 25.00633071663712,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1974-05-01",
+      "value": 21.4196465758315,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1974-06-01",
+      "value": 22.52853119905143,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1974-07-01",
+      "value": 26.61473547549497,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1974-08-01",
+      "value": 19.36652714437433,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1974-09-01",
+      "value": 22.620929007468,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1974-10-01",
+      "value": 29.36685069893105,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1974-11-01",
+      "value": 30.0018182920177,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1974-12-01",
+      "value": 42.45886797165246,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1975-01-01",
+      "value": 90.68346697212675,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1975-02-01",
+      "value": 70.44161473855324,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1975-03-01",
+      "value": 48.96859888596438,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1975-04-01",
+      "value": 39.722256974853,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1975-05-01",
+      "value": 51.62264150943396,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1975-06-01",
+      "value": 42.25844374543259,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1975-07-01",
+      "value": 32.07978655825181,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1975-08-01",
+      "value": 47.28650612219334,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1975-09-01",
+      "value": 31.35680913110282,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1975-10-01",
+      "value": 26.00442075152776,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1975-11-01",
+      "value": 30.02235707441712,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1975-12-01",
+      "value": 24.39667677700119,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1976-01-01",
+      "value": 26.31664446538224,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1976-02-01",
+      "value": 21.67750541937635,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1976-03-01",
+      "value": 28.74617737003058,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1976-04-01",
+      "value": 19.27391070807925,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1976-05-01",
+      "value": 25.86699551839263,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1976-06-01",
+      "value": 21.73287736904343,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1976-07-01",
+      "value": 25.59508574353724,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1976-08-01",
+      "value": 27.23398801704527,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1976-09-01",
+      "value": 23.39443661069093,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1976-10-01",
+      "value": 25.6929540851797,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1976-11-01",
+      "value": 28.33396297695504,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1976-12-01",
+      "value": 26.96002479082739,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1977-01-01",
+      "value": 28.28629544876685,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1977-02-01",
+      "value": 24.56671714622245,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1977-03-01",
+      "value": 26.65293636611442,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1977-04-01",
+      "value": 36.85387595678332,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1977-05-01",
+      "value": 33.4151462282284,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1977-06-01",
+      "value": 35.65842977791679,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1977-07-01",
+      "value": 25.79453537991211,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1977-08-01",
+      "value": 20.03179650238474,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1977-09-01",
+      "value": 27.27920890294181,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1977-10-01",
+      "value": 46.58339884123795,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1977-11-01",
+      "value": 38.6594105926785,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1977-12-01",
+      "value": 51.09830191618633,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1978-01-01",
+      "value": 49.08169727675744,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1978-02-01",
+      "value": 30.58926350465562,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1978-03-01",
+      "value": 37.6396668741294,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1978-04-01",
+      "value": 39.05458963751555,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1978-05-01",
+      "value": 26.44181332079795,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1978-06-01",
+      "value": 32.79264507817533,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1978-07-01",
+      "value": 40.18020211859248,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1978-08-01",
+      "value": 27.25259751320048,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1978-09-01",
+      "value": 24.23441286627011,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1978-10-01",
+      "value": 23.93174250832408,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1978-11-01",
+      "value": 34.36426116838488,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1978-12-01",
+      "value": 35.09293680297398,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1979-01-01",
+      "value": 30.2571860816944,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1979-02-01",
+      "value": 47.64817616947298,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1979-03-01",
+      "value": 34.96105963276676,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1979-04-01",
+      "value": 47.44993013507219,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1979-05-01",
+      "value": 41.20407462515738,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1979-06-01",
+      "value": 35.37422987353713,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1979-07-01",
+      "value": 36.58719448193132,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1979-08-01",
+      "value": 33.1901022373685,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1979-09-01",
+      "value": 27.44712816364267,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1979-10-01",
+      "value": 39.09106248945385,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1979-11-01",
+      "value": 30.57763940623784,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1979-12-01",
+      "value": 36.32236095346197,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1980-01-01",
+      "value": 34.15958658141368,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1980-02-01",
+      "value": 36.04902667627974,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1980-03-01",
+      "value": 69.2532332081769,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1980-04-01",
+      "value": 50.09930928171227,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1980-05-01",
+      "value": 57.84891884302162,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1980-06-01",
+      "value": 45.76073671943837,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1980-07-01",
+      "value": 35.73768538924296,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1980-08-01",
+      "value": 39.64898982536953,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1980-09-01",
+      "value": 38.50110213078619,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1980-10-01",
+      "value": 45.48211036992117,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1980-11-01",
+      "value": 37.67983557889929,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1980-12-01",
+      "value": 33.73879073071117,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1981-01-01",
+      "value": 32.25975660931599,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1981-02-01",
+      "value": 29.38434153646201,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1981-03-01",
+      "value": 30.68015933889205,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1981-04-01",
+      "value": 22.61313139281113,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1981-05-01",
+      "value": 27.56755350966165,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1981-06-01",
+      "value": 30.93274111675127,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1981-07-01",
+      "value": 26.8532834242005,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1981-08-01",
+      "value": 22.05129551361143,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1981-09-01",
+      "value": 24.10325523533071,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1981-10-01",
+      "value": 32.92455981295033,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1981-11-01",
+      "value": 40.49482703276625,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1981-12-01",
+      "value": 27.79181404749874,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1982-01-01",
+      "value": 43.96869847418147,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1982-02-01",
+      "value": 38.36877877658409,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1982-03-01",
+      "value": 34.47186990158413,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1982-04-01",
+      "value": 39.74479656939651,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1982-05-01",
+      "value": 33.26646181975164,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1982-06-01",
+      "value": 26.41658961828028,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1982-07-01",
+      "value": 36.58761285567634,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1982-08-01",
+      "value": 35.1436835987132,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1982-09-01",
+      "value": 30.566534914361,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1982-10-01",
+      "value": 42.99247631664458,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1982-11-01",
+      "value": 47.99660576489618,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1982-12-01",
+      "value": 43.67357125031195,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1983-01-01",
+      "value": 44.21643377455288,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1983-02-01",
+      "value": 47.94355325051261,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1983-03-01",
+      "value": 39.36062977007632,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1983-04-01",
+      "value": 33.66914103923648,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1983-05-01",
+      "value": 40.55967552259582,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1983-06-01",
+      "value": 30.90918228878725,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1983-07-01",
+      "value": 38.48572506602943,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1983-08-01",
+      "value": 27.83746825551865,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1983-09-01",
+      "value": 29.90736012838282,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1983-10-01",
+      "value": 26.99487554904831,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1983-11-01",
+      "value": 30.37102513542304,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1983-12-01",
+      "value": 24.38627865387742,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1984-01-01",
+      "value": 25.22918592161466,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1984-02-01",
+      "value": 28.1874465193537,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1984-03-01",
+      "value": 27.87376180603547,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1984-04-01",
+      "value": 29.01774918992117,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1984-05-01",
+      "value": 22.62232380241616,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1984-06-01",
+      "value": 33.73801916932907,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1984-07-01",
+      "value": 32.0270338427397,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1984-08-01",
+      "value": 32.50721660208566,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1984-09-01",
+      "value": 43.42213355239996,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1984-10-01",
+      "value": 28.59866539561487,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1984-11-01",
+      "value": 23.72510862900861,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1984-12-01",
+      "value": 25.77248923861487,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1985-01-01",
+      "value": 26.59243979421925,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1985-02-01",
+      "value": 30.64516129032258,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1985-03-01",
+      "value": 42.43908126384517,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1985-04-01",
+      "value": 42.02378973859778,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1985-05-01",
+      "value": 31.65958200495926,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1985-06-01",
+      "value": 34.80332617023264,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1985-07-01",
+      "value": 50.39542948382108,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1985-08-01",
+      "value": 41.98417706159297,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1985-09-01",
+      "value": 60.03025146530535,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1985-10-01",
+      "value": 36.1384720477733,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1985-11-01",
+      "value": 39.58143767060965,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1985-12-01",
+      "value": 44.46720834400391,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1986-01-01",
+      "value": 40.25137633738444,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1986-02-01",
+      "value": 41.18339216675071,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1986-03-01",
+      "value": 40.27082127306134,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1986-04-01",
+      "value": 43.61627997006219,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1986-05-01",
+      "value": 41.71587967733019,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1986-06-01",
+      "value": 41.21059401002704,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1986-07-01",
+      "value": 32.03875908416035,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1986-08-01",
+      "value": 37.76881375093137,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1986-09-01",
+      "value": 49.1580378621483,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1986-10-01",
+      "value": 43.37372118240535,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1986-11-01",
+      "value": 44.25544539768092,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1986-12-01",
+      "value": 33.56814078274801,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1987-01-01",
+      "value": 51.1998468789626,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1987-02-01",
+      "value": 48.55981802847139,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1987-03-01",
+      "value": 64.3652561247216,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1987-04-01",
+      "value": 83.27390674242598,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1987-05-01",
+      "value": 43.01890156918687,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1987-06-01",
+      "value": 44.40223198385374,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1987-07-01",
+      "value": 47.50261962975899,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1987-08-01",
+      "value": 30.95518867924528,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1987-09-01",
+      "value": 36.71680682221959,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1987-10-01",
+      "value": 44.78709418659061,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1987-11-01",
+      "value": 50.88717777033813,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1987-12-01",
+      "value": 43.08108717717379,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1988-01-01",
+      "value": 49.58081673127197,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1988-02-01",
+      "value": 60.86174700878345,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1988-03-01",
+      "value": 52.5438933743432,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1988-04-01",
+      "value": 37.53241435785451,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1988-05-01",
+      "value": 32.4089178901577,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1988-06-01",
+      "value": 42.09041476122222,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1988-07-01",
+      "value": 45.29195893529057,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1988-08-01",
+      "value": 38.4098781723496,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1988-09-01",
+      "value": 42.81078095150414,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1988-10-01",
+      "value": 46.73614920460779,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1988-11-01",
+      "value": 51.00985731026402,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1988-12-01",
+      "value": 49.58530673959931,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1989-01-01",
+      "value": 37.141275260681,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1989-02-01",
+      "value": 33.85423055221647,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1989-03-01",
+      "value": 32.94535838914537,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1989-04-01",
+      "value": 35.60711246472881,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1989-05-01",
+      "value": 42.42747345506243,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1989-06-01",
+      "value": 39.99172584982417,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1989-07-01",
+      "value": 39.51166422183315,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1989-08-01",
+      "value": 32.43518754488798,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1989-09-01",
+      "value": 31.65882955444853,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1989-10-01",
+      "value": 32.90246768507638,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1989-11-01",
+      "value": 28.65834839733698,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1989-12-01",
+      "value": 36.85997676704495,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1990-01-01",
+      "value": 30.9206515111924,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1990-02-01",
+      "value": 30.68562460471762,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1990-03-01",
+      "value": 36.76700996469531,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1990-04-01",
+      "value": 36.44139917515874,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1990-05-01",
+      "value": 37.74057007026835,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1990-06-01",
+      "value": 40.41468986118433,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1990-07-01",
+      "value": 39.86887569770533,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1990-08-01",
+      "value": 34.01213171577123,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1990-09-01",
+      "value": 33.1892222367789,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1990-10-01",
+      "value": 30.09598177972995,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1990-11-01",
+      "value": 35.44165757906216,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1990-12-01",
+      "value": 41.6116248348745,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1991-01-01",
+      "value": 32.89938439802199,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1991-02-01",
+      "value": 31.28580241473517,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1991-03-01",
+      "value": 33.23562198092564,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1991-04-01",
+      "value": 39.74461967781489,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1991-05-01",
+      "value": 42.7445208379539,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1991-06-01",
+      "value": 39.2664600755614,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1991-07-01",
+      "value": 44.00863081885961,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1991-08-01",
+      "value": 33.8262717377163,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1991-09-01",
+      "value": 33.19128889269577,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1991-10-01",
+      "value": 35.72077253738573,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1991-11-01",
+      "value": 38.60920113658548,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1991-12-01",
+      "value": 41.89790949174107,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1992-01-01",
+      "value": 51.12756433375056,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1992-02-01",
+      "value": 42.27212681638044,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1992-03-01",
+      "value": 33.27686350435624,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1992-04-01",
+      "value": 39.7680892479645,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1992-05-01",
+      "value": 33.89059949164101,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1992-06-01",
+      "value": 39.01618848483542,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1992-07-01",
+      "value": 50.34084950183535,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1992-08-01",
+      "value": 54.20748233988518,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1992-09-01",
+      "value": 45.73268921095008,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1992-10-01",
+      "value": 49.29464571978198,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1992-11-01",
+      "value": 65.30127634312852,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1992-12-01",
+      "value": 46.45121521662557,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1993-01-01",
+      "value": 52.84245978746879,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1993-02-01",
+      "value": 58.23490813648294,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1993-03-01",
+      "value": 41.1682892906815,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1993-04-01",
+      "value": 46.74811890039485,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1993-05-01",
+      "value": 43.8871473354232,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1993-06-01",
+      "value": 44.33149255727744,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1993-07-01",
+      "value": 54.69780432927303,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1993-08-01",
+      "value": 43.61555160844681,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1993-09-01",
+      "value": 51.3975513975514,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1993-10-01",
+      "value": 51.78857447944474,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1993-11-01",
+      "value": 94.9726816031682,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1993-12-01",
+      "value": 72.20483957565772,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1994-01-01",
+      "value": 37.68615135244656,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1994-02-01",
+      "value": 49.53814870097561,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1994-03-01",
+      "value": 52.28295693535389,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1994-04-01",
+      "value": 46.23446008424946,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1994-05-01",
+      "value": 52.021520689928,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1994-06-01",
+      "value": 36.22455174646861,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1994-07-01",
+      "value": 37.83640838910474,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1994-08-01",
+      "value": 32.89334069012352,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1994-09-01",
+      "value": 38.72036442695931,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1994-10-01",
+      "value": 38.3910823556924,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1994-11-01",
+      "value": 59.41527177364831,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1994-12-01",
+      "value": 44.79768786127168,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1995-01-01",
+      "value": 40.02322591348346,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1995-02-01",
+      "value": 38.48853268129231,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1995-03-01",
+      "value": 31.65565023492872,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1995-04-01",
+      "value": 35.36272644552899,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1995-05-01",
+      "value": 60.57629338572363,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1995-06-01",
+      "value": 60.3786242898174,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1995-07-01",
+      "value": 38.82071300709556,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1995-08-01",
+      "value": 26.04339093778278,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1995-09-01",
+      "value": 30.60989643268124,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1995-10-01",
+      "value": 28.05632987003584,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1995-11-01",
+      "value": 30.50666666666666,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1995-12-01",
+      "value": 31.21290719655339,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1996-01-01",
+      "value": 39.4383288549883,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1996-02-01",
+      "value": 45.67139207307422,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1996-03-01",
+      "value": 39.66212160192093,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1996-04-01",
+      "value": 33.97508493771234,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1996-05-01",
+      "value": 37.47262917898824,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1996-06-01",
+      "value": 33.62806885523469,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1996-07-01",
+      "value": 30.54777718636458,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1996-08-01",
+      "value": 29.09423164779148,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1996-09-01",
+      "value": 25.54399243140965,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1996-10-01",
+      "value": 26.46775745909528,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1996-11-01",
+      "value": 29.23135901859306,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1996-12-01",
+      "value": 33.48996599080973,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1997-01-01",
+      "value": 26.79430816055774,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1997-02-01",
+      "value": 35.15929037279584,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1997-03-01",
+      "value": 30.29108998670148,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1997-04-01",
+      "value": 32.08635956621232,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1997-05-01",
+      "value": 33.63899132861557,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1997-06-01",
+      "value": 34.3660237997538,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1997-07-01",
+      "value": 30.62748373705926,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1997-08-01",
+      "value": 27.38005526249686,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1997-09-01",
+      "value": 33.76015819045553,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1997-10-01",
+      "value": 36.76305761040125,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1997-11-01",
+      "value": 47.08053373710609,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1997-12-01",
+      "value": 31.96717400639344,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-01-01",
+      "value": 30.68600263672319,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-02-01",
+      "value": 25.52968123687727,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-03-01",
+      "value": 29.84241487397484,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-04-01",
+      "value": 30.76646679691886,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-05-01",
+      "value": 25.65856996236743,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-06-01",
+      "value": 33.53731570809468,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-07-01",
+      "value": 36.33124721655767,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-08-01",
+      "value": 32.31396056760174,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-09-01",
+      "value": 32.45070422535211,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-10-01",
+      "value": 33.76769557123685,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-11-01",
+      "value": 30.20467045352087,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-12-01",
+      "value": 35.70021095579201,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-01-01",
+      "value": 34.19077996282613,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-02-01",
+      "value": 34.41053261520048,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-03-01",
+      "value": 39.11342894393742,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-04-01",
+      "value": 34.92721618820136,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-05-01",
+      "value": 30.32059571052749,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-06-01",
+      "value": 33.0491863062406,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-07-01",
+      "value": 31.69572107765451,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-08-01",
+      "value": 32.25347436323104,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-09-01",
+      "value": 30.38519072550486,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-10-01",
+      "value": 32.63973888208894,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-11-01",
+      "value": 48.94195531386688,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-12-01",
+      "value": 41.58353964858303,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-01-01",
+      "value": 32.11734816164134,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-02-01",
+      "value": 28.17585620597523,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-03-01",
+      "value": 36.83850616548651,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-04-01",
+      "value": 35.28104006572906,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-05-01",
+      "value": 49.32756293917819,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-06-01",
+      "value": 27.36688135513247,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-07-01",
+      "value": 31.94444444444445,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-08-01",
+      "value": 29.21261803935777,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-09-01",
+      "value": 33.43174713442168,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-10-01",
+      "value": 25.48113774315842,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-11-01",
+      "value": 26.90486439948343,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-12-01",
+      "value": 29.81667404318759,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-01-01",
+      "value": 25.98787232624775,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-02-01",
+      "value": 20.64627646804629,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-03-01",
+      "value": 25.07863640227833,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-04-01",
+      "value": 34.3147347471004,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-05-01",
+      "value": 27.79333821691731,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-06-01",
+      "value": 30.15970937007334,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-07-01",
+      "value": 34.29895712630359,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-08-01",
+      "value": 28.28561572956192,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-09-01",
+      "value": 24.12961047914512,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-10-01",
+      "value": 24.04201024948858,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-11-01",
+      "value": 33.66046643789207,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-12-01",
+      "value": 34.28891325138206,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-01-01",
+      "value": 31.63412870571222,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-02-01",
+      "value": 31.94888178913738,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-03-01",
+      "value": 53.87744504067855,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-04-01",
+      "value": 36.55340475424158,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-05-01",
+      "value": 41.12330393860093,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-06-01",
+      "value": 39.78324987996433,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-07-01",
+      "value": 40.61059219798858,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-08-01",
+      "value": 34.50802429743081,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-09-01",
+      "value": 27.68700072621641,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-10-01",
+      "value": 32.54575425842174,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-11-01",
+      "value": 31.85472511755911,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-12-01",
+      "value": 24.72299013327939,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-01-01",
+      "value": 25.27453372842949,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-02-01",
+      "value": 31.57377739317538,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-03-01",
+      "value": 23.27466179007086,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-04-01",
+      "value": 16.24980785700169,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-05-01",
+      "value": 28.59866539561487,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-06-01",
+      "value": 32.85968028419182,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-07-01",
+      "value": 28.43494085532302,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-08-01",
+      "value": 24.55159244356544,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-09-01",
+      "value": 39.80838000134943,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-10-01",
+      "value": 31.40458547999754,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-11-01",
+      "value": 50.17905300853265,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-12-01",
+      "value": 46.6441488017279,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-01-01",
+      "value": 30.87917420265561,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-02-01",
+      "value": 35.39903333408972,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-03-01",
+      "value": 27.12360614801739,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-04-01",
+      "value": 28.38389214120986,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-05-01",
+      "value": 30.99539496989018,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-06-01",
+      "value": 22.94156782674528,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-07-01",
+      "value": 34.2544484803899,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-08-01",
+      "value": 28.87239753682358,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-09-01",
+      "value": 28.53132693679391,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-10-01",
+      "value": 29.3588205040288,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-11-01",
+      "value": 31.06233174570304,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-12-01",
+      "value": 30.10064904524504,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-01-01",
+      "value": 27.60942760942761,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-02-01",
+      "value": 19.91745056632751,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-03-01",
+      "value": 23.08211571543671,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-04-01",
+      "value": 31.50427234196868,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-05-01",
+      "value": 33.32582751632515,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-06-01",
+      "value": 38.64912119260146,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-07-01",
+      "value": 34.02699011596953,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-08-01",
+      "value": 22.78778574683969,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-09-01",
+      "value": 22.9043630566097,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-10-01",
+      "value": 34.35678872749413,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-11-01",
+      "value": 28.04210913437227,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-12-01",
+      "value": 32.10837161338709,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-01-01",
+      "value": 23.6623859955432,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-02-01",
+      "value": 24.28658166363085,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-03-01",
+      "value": 24.32237000679273,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-04-01",
+      "value": 26.57322923525538,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-05-01",
+      "value": 27.05389969246422,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-06-01",
+      "value": 26.84156474652227,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-07-01",
+      "value": 30.90742261071135,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-08-01",
+      "value": 20.98435711560473,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-09-01",
+      "value": 26.78760250957539,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-10-01",
+      "value": 23.69347414026536,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-11-01",
+      "value": 25.99792936845738,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-12-01",
+      "value": 26.97579469233012,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-01-01",
+      "value": 22.50257343260001,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-02-01",
+      "value": 27.55530375215679,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-03-01",
+      "value": 26.70623145400593,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-04-01",
+      "value": 30.43747420553033,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-05-01",
+      "value": 29.71149307194624,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-06-01",
+      "value": 34.27456563579319,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-07-01",
+      "value": 24.37064115527209,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-08-01",
+      "value": 23.17382836575204,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-09-01",
+      "value": 18.99715042743588,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-10-01",
+      "value": 25.88229602573716,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-11-01",
+      "value": 27.3709128569315,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-12-01",
+      "value": 21.81988206873263,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-01-01",
+      "value": 27.87082257280933,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-02-01",
+      "value": 24.88681792909904,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-03-01",
+      "value": 25.97931842494015,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-04-01",
+      "value": 31.77662594743834,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-05-01",
+      "value": 25.63642423154818,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-06-01",
+      "value": 34.37625889619981,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-07-01",
+      "value": 32.96823061413547,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-08-01",
+      "value": 25.96925659724044,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-09-01",
+      "value": 29.58258698366172,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-10-01",
+      "value": 31.70725368401902,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-11-01",
+      "value": 28.87846055591036,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-12-01",
+      "value": 31.32530120481927,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-01-01",
+      "value": 23.3140488731543,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-02-01",
+      "value": 26.20414275018717,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-03-01",
+      "value": 34.1486194617944,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-04-01",
+      "value": 22.99180916798391,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-05-01",
+      "value": 21.32135546963839,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-06-01",
+      "value": 21.15007356547327,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-07-01",
+      "value": 24.69953914274526,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-08-01",
+      "value": 29.12859508186668,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-09-01",
+      "value": 37.13686732554657,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-10-01",
+      "value": 28.3221284508654,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-11-01",
+      "value": 27.93631721237609,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-12-01",
+      "value": 31.11544143068171,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-01-01",
+      "value": 24.49080819667049,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-02-01",
+      "value": 18.8473365737526,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-03-01",
+      "value": 28.5566728438193,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-04-01",
+      "value": 25.48772813089994,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-05-01",
+      "value": 21.41069328427972,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-06-01",
+      "value": 27.38276752652706,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-07-01",
+      "value": 28.69440459110473,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-08-01",
+      "value": 29.78941961992809,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-09-01",
+      "value": 31.49555165919865,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-10-01",
+      "value": 31.01298860810022,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-11-01",
+      "value": 30.49285737960293,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-12-01",
+      "value": 32.20994100495016,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-01-01",
+      "value": 30.23888720895071,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-02-01",
+      "value": 24.95229707911346,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-03-01",
+      "value": 29.94775073276411,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-04-01",
+      "value": 31.69410080768838,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-05-01",
+      "value": 20.82213863514239,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-06-01",
+      "value": 29.77398836107728,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-07-01",
+      "value": 30.57254030016676,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-08-01",
+      "value": 30.83100308310031,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-09-01",
+      "value": 21.23505839641059,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-10-01",
+      "value": 36.76591274661064,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-11-01",
+      "value": 36.3832367605444,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-12-01",
+      "value": 30.96628897177845,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-01-01",
+      "value": 29.71968929415738,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-02-01",
+      "value": 23.25581395348837,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-03-01",
+      "value": 27.7136258660508,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-04-01",
+      "value": 21.94586686174104,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-05-01",
+      "value": 28.60195044625934,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-06-01",
+      "value": 20.71747900992258,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-07-01",
+      "value": 29.37078736303047,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-08-01",
+      "value": 20.96940529391543,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-09-01",
+      "value": 22.71006813020439,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-10-01",
+      "value": 27.77777777777778,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-11-01",
+      "value": 27.58863583000704,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-12-01",
+      "value": 25.8848686061561,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-01-01",
+      "value": 22.87262391188488,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-02-01",
+      "value": 28.59686002689241,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-03-01",
+      "value": 31.86307979425554,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-04-01",
+      "value": 11.2991236289478,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-05-01",
+      "value": 33.6477185827173,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-06-01",
+      "value": 26.86384551958933,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-07-01",
+      "value": 24.47206335239771,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-08-01",
+      "value": 20.34908715714655,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-09-01",
+      "value": 25.62994071146245,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-10-01",
+      "value": 33.37041156840935,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-11-01",
+      "value": 26.02608591599856,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-12-01",
+      "value": 21.48227712137486,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-01-01",
+      "value": 23.00868880748388,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-02-01",
+      "value": 26.79938744257274,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-03-01",
+      "value": 27.13312550513797,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-04-01",
+      "value": 24.47366869139588,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-05-01",
+      "value": 16.78380362949753,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-06-01",
+      "value": 27.61402420105491,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-07-01",
+      "value": 20.20860495436767,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-08-01",
+      "value": 22.24514797859307,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-09-01",
+      "value": 19.87130961392884,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-10-01",
+      "value": 21.01514841948571,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-11-01",
+      "value": 25.03009948672454,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-12-01",
+      "value": 28.69930643342786,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-01-01",
+      "value": 26.61276739093818,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-02-01",
+      "value": 25.19270539575108,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-03-01",
+      "value": 20.87313380032548,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-04-01",
+      "value": 21.36752136752137,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-05-01",
+      "value": 43.43984685613312,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-06-01",
+      "value": 44.50311144635112,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-07-01",
+      "value": 26.47870515402402,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-08-01",
+      "value": 35.42234332425068,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-09-01",
+      "value": 29.24724893064746,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-10-01",
+      "value": 53.25218714340053,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-11-01",
+      "value": 30.72078645213318,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-12-01",
+      "value": 31.82149292642718,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-01-01",
+      "value": 36.03343903142116,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-02-01",
+      "value": 32.20794967981509,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-03-01",
+      "value": 54.3267365153279,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-04-01",
+      "value": 46.85040811097691,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-05-01",
+      "value": 57.42132900154887,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-06-01",
+      "value": 74.69130472325361,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-07-01",
+      "value": 46.10794684024953,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-08-01",
+      "value": 43.67019509184981,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-09-01",
+      "value": 44.24597484534393,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-10-01",
+      "value": 50.46019699660908,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-11-01",
+      "value": 111.2968712682111,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-12-01",
+      "value": 105.8383380919563,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-01-01",
+      "value": 166.4209975750083,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-02-01",
+      "value": 122.7026173047554,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-03-01",
+      "value": 90.58218398652646,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-04-01",
+      "value": 97.09221270663214,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-05-01",
+      "value": 54.45591438583198,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-06-01",
+      "value": 60.11549749124302,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-07-01",
+      "value": 65.97735105859182,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-08-01",
+      "value": 54.82564457176726,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-09-01",
+      "value": 51.30418105101649,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-10-01",
+      "value": 47.73744405768275,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-11-01",
+      "value": 44.02949445652751,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-12-01",
+      "value": 46.75210384467301,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-01-01",
+      "value": 73.21468799279117,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-02-01",
+      "value": 57.02965542081883,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-03-01",
+      "value": 260.5556427562392,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-04-01",
+      "value": 174.2081447963801,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-05-01",
+      "value": 152.2499154167137,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-06-01",
+      "value": 228.6231679022127,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-07-01",
+      "value": 246.381805651275,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-08-01",
+      "value": 225.8288090562551,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-09-01",
+      "value": 150.1088575684657,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-10-01",
+      "value": 155.2070331578662,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-11-01",
+      "value": 144.8310304644581,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-12-01",
+      "value": 164.6457441749881,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-01-01",
+      "value": 141.7107734334984,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-02-01",
+      "value": 127.4717074990673,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-03-01",
+      "value": 94.09791773419668,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-04-01",
+      "value": 91.15902184922588,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-05-01",
+      "value": 189.7933361450865,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-06-01",
+      "value": 266.0045235519717,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-07-01",
+      "value": 145.1146457343524,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-08-01",
+      "value": 254.2201556656221,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-09-01",
+      "value": 136.9317333067769,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-10-01",
+      "value": 139.2663043478261,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-11-01",
+      "value": 119.8353566404418,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-12-01",
+      "value": 146.3152232383001,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-01-01",
+      "value": 139.6403359612511,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-02-01",
+      "value": 95.7377758546084,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-03-01",
+      "value": 61.23410268487989,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-04-01",
+      "value": 55.47850208044382,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-05-01",
+      "value": 66.5,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-06-01",
+      "value": 59.9,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-07-01",
+      "value": 57.4,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-08-01",
+      "value": 67.2,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-09-01",
+      "value": 67.8,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-10-01",
+      "value": 70.24901703800785,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-11-01",
+      "value": 69.8753423891777,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-12-01",
+      "value": 98.01160367261872,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-01-01",
+      "value": 75.4428165318171,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-02-01",
+      "value": 36.8550368550368,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-03-01",
+      "value": 46.8245425188374,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-04-01",
+      "value": 47.9506793012901,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-05-01",
+      "value": 49.2583573168031,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-06-01",
+      "value": 49.3487117690939,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-07-01",
+      "value": 57.2197913160552,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-08-01",
+      "value": 39.4601395402035,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-09-01",
+      "value": 51.5433023673958,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-10-01",
+      "value": 56.0620995564317,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-11-01",
+      "value": 48.4903342600375,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-12-01",
+      "value": 37.1166243406915,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-01-01",
+      "value": 46.6062754365235,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-02-01",
+      "value": 54.3041029766693,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-03-01",
+      "value": 53.6275658016396,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-04-01",
+      "value": 41.1926245586504,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-05-01",
+      "value": 63.2872122603462,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-06-01",
+      "value": 74.5108202669431,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-07-01",
+      "value": 67.0362253448498,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-08-01",
+      "value": 65.8574380165289,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-09-01",
+      "value": 48.5060147458284,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-10-01",
+      "value": 46.5525918470055,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-11-01",
+      "value": 49.3046776232616,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-12-01",
+      "value": 48.7704354993817,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-01-01",
+      "value": 52.7380436353128,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-02-01",
+      "value": 43.6817472698908,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-03-01",
+      "value": 65.4413812308549,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-04-01",
+      "value": 33.8933097553787,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-05-01",
+      "value": 59.6559378468368,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-06-01",
+      "value": 52.330449344125,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-07-01",
+      "value": 63.2955414898796,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-08-01",
+      "value": 59.9659284497444,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-09-01",
+      "value": 63.6042402826855,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-10-01",
+      "value": 44.4594139440889,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-11-01",
+      "value": 40.9482758620689,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-12-01",
+      "value": 65.3073071620346,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-01-01",
+      "value": 69.6039035591274,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-02-01",
+      "value": 62.5763125763125,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-03-01",
+      "value": 82.1898725360451,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-04-01",
+      "value": 90.9742120343839,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-05-01",
+      "value": 94.4772490448072,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-06-01",
+      "value": 89.0557150217119,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-07-01",
+      "value": 101.36624063464,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-08-01",
+      "value": 98.1404958677685,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-09-01",
+      "value": 128.640601286406,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-10-01",
+      "value": 147.926889979375,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-11-01",
+      "value": 373.312152501985,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-12-01",
+      "value": 247.675599656223,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-01-01",
+      "value": 360.891445003594,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-02-01",
+      "value": 469.771571555412,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-03-01",
+      "value": 603.077776237349,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-04-01",
+      "value": 1151.35558243791,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-05-01",
+      "value": 723.132241310427,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-06-01",
+      "value": 472.512178148921,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-07-01",
+      "value": 554.85,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-08-01",
+      "value": 575.84,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-09-01",
+      "value": 465.310904678215,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-10-01",
+      "value": 426.213747796827,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-11-01",
+      "value": 342.788766101217,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-12-01",
+      "value": 308.280990542199,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2026-01-01",
+      "value": 410.757946210268,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2026-02-01",
+      "value": 383.968181122839,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2026-03-01",
+      "value": 269.0760404,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2026-04-01",
+      "value": 197.286446075038,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2026-05-01",
+      "value": 200.028074115665,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2026-06-01",
+      "value": 187.328222190076,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2026-07-01",
+      "value": 194.9068146251245,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2026-08-01",
+      "value": 209.964412811387,
+      "status": "VALID"
+    }
+  ]
+}

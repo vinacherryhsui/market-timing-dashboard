@@ -1,0 +1,1735 @@
+{
+  "indicatorId": "gscpi",
+  "provider": "NY_FED",
+  "datasetId": "GSCPI",
+  "source": "https://www.newyorkfed.org/medialibrary/research/interactives/gscpi/downloads/gscpi_data.xlsx",
+  "frequency": "Monthly",
+  "unit": "Standard deviations from historical average",
+  "retrievedAt": "2026-09-02T13:41:44.137Z",
+  "metadata": {
+    "sourcePage": "https://www.newyorkfed.org/research/policy/gscpi",
+    "citation": "Federal Reserve Bank of New York, Global Supply Chain Pressure Index.",
+    "disclaimer": "The GSCPI is not an official estimate of the Federal Reserve Bank of New York, its President, the Federal Reserve System, or the FOMC.",
+    "termsUrl": "https://www.newyorkfed.org/terms-of-use",
+    "acquisitionMode": "PERIODIC_FILE",
+    "sheet": "GSCPI Monthly Data",
+    "valueColumn": "GSCPI"
+  },
+  "observations": [
+    {
+      "observationDate": "1998-01-01",
+      "value": -1.1475479560042845,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-02-01",
+      "value": -0.440288707134945,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-03-01",
+      "value": -0.03457611047927044,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-04-01",
+      "value": -0.09367083561620196,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-05-01",
+      "value": -0.4220958704947207,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-06-01",
+      "value": -0.7580930118340938,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-07-01",
+      "value": -0.8758334096979372,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-08-01",
+      "value": -0.8813810603174062,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-09-01",
+      "value": -0.9128336165004008,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-10-01",
+      "value": -0.6388037309138076,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-11-01",
+      "value": -0.8246407775134699,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1998-12-01",
+      "value": -0.5888562103598737,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-01-01",
+      "value": -0.2942399885893091,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-02-01",
+      "value": -0.060477748360108274,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-03-01",
+      "value": -0.31266575554655035,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-04-01",
+      "value": -0.24493356658460927,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-05-01",
+      "value": -0.4002569008678962,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-06-01",
+      "value": -0.37555673169292186,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-07-01",
+      "value": -0.6561918105390958,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-08-01",
+      "value": -0.47600728226780653,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-09-01",
+      "value": -0.38966587145331044,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-10-01",
+      "value": -0.14390468293440736,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-11-01",
+      "value": -0.19253891484459604,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "1999-12-01",
+      "value": -0.1837833295168811,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-01-01",
+      "value": -0.6023999976437395,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-02-01",
+      "value": -0.41873512575904576,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-03-01",
+      "value": -0.25835481475650396,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-04-01",
+      "value": 0.14147708758508712,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-05-01",
+      "value": 0.3324422574413795,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-06-01",
+      "value": 0.0899221453879527,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-07-01",
+      "value": 0.08146725418183352,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-08-01",
+      "value": 0.17908573157316388,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-09-01",
+      "value": 0.09104816131949152,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-10-01",
+      "value": -0.4505779316246544,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-11-01",
+      "value": -0.6722234381238874,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2000-12-01",
+      "value": -0.9017028084510191,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-01-01",
+      "value": -0.8431414897268535,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-02-01",
+      "value": -0.6626785708490724,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-03-01",
+      "value": -0.5542811398311026,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-04-01",
+      "value": -0.9234663231711903,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-05-01",
+      "value": -1.0446906852744695,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-06-01",
+      "value": -0.686257884617532,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-07-01",
+      "value": -0.855128259217356,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-08-01",
+      "value": -0.8167443887251946,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-09-01",
+      "value": -0.7043080863129928,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-10-01",
+      "value": -1.2557241874738294,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-11-01",
+      "value": -1.488777965835121,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2001-12-01",
+      "value": -1.2237605977868151,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-01-01",
+      "value": -1.0330716141828031,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-02-01",
+      "value": -0.5732743007348013,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-03-01",
+      "value": -0.5029444176534777,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-04-01",
+      "value": -0.6867789081716723,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-05-01",
+      "value": -0.3788333593477489,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-06-01",
+      "value": -0.6529393024220381,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-07-01",
+      "value": -0.9769319287042127,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-08-01",
+      "value": -1.1024720058985586,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-09-01",
+      "value": -1.1442004061852358,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-10-01",
+      "value": -1.2517151989998132,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-11-01",
+      "value": -0.7317562344409959,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2002-12-01",
+      "value": -0.6833249436049453,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-01-01",
+      "value": -0.6300396136241138,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-02-01",
+      "value": -0.3264603529242719,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-03-01",
+      "value": -0.3474907914288781,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-04-01",
+      "value": -0.5468956369829379,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-05-01",
+      "value": -0.1653149342386909,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-06-01",
+      "value": -0.13034115822370682,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-07-01",
+      "value": -0.02806774555658352,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-08-01",
+      "value": -0.09330423223901434,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-09-01",
+      "value": 0.04648378845336087,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-10-01",
+      "value": -0.30656832438755305,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-11-01",
+      "value": -0.4648373346131786,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2003-12-01",
+      "value": -0.4021177689829562,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-01-01",
+      "value": -0.5450861424660053,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-02-01",
+      "value": -0.42803924934831716,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-03-01",
+      "value": -0.06361726103071108,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-04-01",
+      "value": 0.34480889935267384,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-05-01",
+      "value": 0.2770674354648952,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-06-01",
+      "value": 0.3773101356148819,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-07-01",
+      "value": -0.5074322931760896,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-08-01",
+      "value": 0.07570729323265644,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-09-01",
+      "value": -0.04691996544697988,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-10-01",
+      "value": -0.6469713128586724,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-11-01",
+      "value": -0.04491086921770356,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2004-12-01",
+      "value": 0.08949669779765858,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-01-01",
+      "value": -0.1704829868122064,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-02-01",
+      "value": -0.2119209145511155,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-03-01",
+      "value": -0.3108247721638442,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-04-01",
+      "value": -1.3666993024912044,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-05-01",
+      "value": -1.0295603783149767,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-06-01",
+      "value": -0.9669257154332302,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-07-01",
+      "value": -0.9428078106614816,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-08-01",
+      "value": -0.5622032087724791,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-09-01",
+      "value": 0.015895243798977696,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-10-01",
+      "value": -0.14770107000933577,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-11-01",
+      "value": -0.7362201830570811,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2005-12-01",
+      "value": -0.8023611170209253,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-01-01",
+      "value": -0.44913869862336636,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-02-01",
+      "value": -0.8208016814325169,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-03-01",
+      "value": -0.43561011944687533,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-04-01",
+      "value": 0.06243142591369097,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-05-01",
+      "value": 0.09383015144029193,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-06-01",
+      "value": 0.12304081086475484,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-07-01",
+      "value": -0.10903642329887063,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-08-01",
+      "value": 0.05465180481949862,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-09-01",
+      "value": -0.6464167958852709,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-10-01",
+      "value": -0.5204743099658257,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-11-01",
+      "value": -0.2311980818246521,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2006-12-01",
+      "value": -0.46364688055550723,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-01-01",
+      "value": -0.8838121113407834,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-02-01",
+      "value": -0.7129520029242171,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-03-01",
+      "value": -0.5794429340185655,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-04-01",
+      "value": -0.8316950241365741,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-05-01",
+      "value": -0.4140884167443726,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-06-01",
+      "value": -0.387010659624369,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-07-01",
+      "value": -0.44464233274184,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-08-01",
+      "value": -0.11454255106851897,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-09-01",
+      "value": -0.035802010665426286,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-10-01",
+      "value": -0.6126974590872658,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-11-01",
+      "value": -0.4931209118926277,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2007-12-01",
+      "value": -0.16504317850199457,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-01-01",
+      "value": -0.39002858993418826,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-02-01",
+      "value": 0.4329536506901121,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-03-01",
+      "value": 0.14092312891391717,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-04-01",
+      "value": 0.135192505155361,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-05-01",
+      "value": -0.13826914922453523,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-06-01",
+      "value": 0.274535179425071,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-07-01",
+      "value": 1.0091097459116734,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-08-01",
+      "value": 0.2736288070728156,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-09-01",
+      "value": -0.5572750018569059,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-10-01",
+      "value": -1.0374010328277852,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-11-01",
+      "value": -1.5306464455450202,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2008-12-01",
+      "value": -0.6613460496883395,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-01-01",
+      "value": -0.41802155482019737,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-02-01",
+      "value": -0.5066292032573788,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-03-01",
+      "value": 0.1238039161317665,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-04-01",
+      "value": 0.8195482655734321,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-05-01",
+      "value": 0.3103123611882665,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-06-01",
+      "value": -0.5499985601934895,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-07-01",
+      "value": -0.791203734073306,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-08-01",
+      "value": -1.164288499747167,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-09-01",
+      "value": -0.5100629195911304,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-10-01",
+      "value": -0.4385373195515112,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-11-01",
+      "value": -0.7818618680342871,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2009-12-01",
+      "value": -0.6174334797670773,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-01-01",
+      "value": -0.32127028265392343,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-02-01",
+      "value": -0.176514096456388,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-03-01",
+      "value": 0.34016232603670943,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-04-01",
+      "value": 0.2592587800459002,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-05-01",
+      "value": 0.3840665887296048,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-06-01",
+      "value": -0.07252136072412886,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-07-01",
+      "value": -0.06886983981070434,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-08-01",
+      "value": 0.3178106170311833,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-09-01",
+      "value": 0.3666974050896615,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-10-01",
+      "value": 0.6858825928573403,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-11-01",
+      "value": 0.41491416127779096,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2010-12-01",
+      "value": 0.6619388600421021,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-01-01",
+      "value": 0.7314552659893319,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-02-01",
+      "value": 0.3223070234246008,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-03-01",
+      "value": 0.705359839793755,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-04-01",
+      "value": 1.5799374343580868,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-05-01",
+      "value": 0.908287217320954,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-06-01",
+      "value": 0.19755473514931857,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-07-01",
+      "value": 0.28915623944860674,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-08-01",
+      "value": -0.12213103334623976,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-09-01",
+      "value": -0.5701553225063183,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-10-01",
+      "value": -0.400044172767208,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-11-01",
+      "value": 0.13889573429189847,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2011-12-01",
+      "value": -0.06257372988618716,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-01-01",
+      "value": 0.36184516663065125,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-02-01",
+      "value": -0.00833742689681903,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-03-01",
+      "value": -0.39104901854719126,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-04-01",
+      "value": -0.3277584205128971,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-05-01",
+      "value": -0.6918139601381856,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-06-01",
+      "value": -0.7104410266284026,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-07-01",
+      "value": -0.6707862018914506,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-08-01",
+      "value": -0.1463805737299998,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-09-01",
+      "value": -0.2668455560398023,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-10-01",
+      "value": -0.016526568453103345,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-11-01",
+      "value": -0.3599773028490239,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2012-12-01",
+      "value": -0.1655287063246258,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-01-01",
+      "value": -0.07622412222559845,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-02-01",
+      "value": -0.40763011858599596,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-03-01",
+      "value": -0.5682266316154582,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-04-01",
+      "value": -0.7627315726841887,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-05-01",
+      "value": -0.8761456808873693,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-06-01",
+      "value": -0.6808528208879,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-07-01",
+      "value": -0.6693253552987365,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-08-01",
+      "value": -0.5797592849822777,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-09-01",
+      "value": -0.2770948363840759,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-10-01",
+      "value": -0.19984940700748674,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-11-01",
+      "value": -0.7062288024571225,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2013-12-01",
+      "value": -0.5024292415944478,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-01-01",
+      "value": -0.6503143131124534,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-02-01",
+      "value": -0.2873361509036311,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-03-01",
+      "value": -0.6241625326454794,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-04-01",
+      "value": -0.8116007151712108,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-05-01",
+      "value": -0.8224760378309737,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-06-01",
+      "value": -0.7077335614844961,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-07-01",
+      "value": -0.8300142398444609,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-08-01",
+      "value": -0.6465318964764948,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-09-01",
+      "value": -0.8460390067460372,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-10-01",
+      "value": -0.6164222207818908,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-11-01",
+      "value": -1.018631651741071,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2014-12-01",
+      "value": -0.43900310929392067,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-01-01",
+      "value": -0.5348426714909177,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-02-01",
+      "value": -0.35627219208087424,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-03-01",
+      "value": -0.4260394781372232,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-04-01",
+      "value": -0.3696750450553264,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-05-01",
+      "value": -0.58278313364294,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-06-01",
+      "value": -0.8951217545673757,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-07-01",
+      "value": -0.43450381053870313,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-08-01",
+      "value": -0.7142919730389313,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-09-01",
+      "value": -0.4190735173046907,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-10-01",
+      "value": -0.2566602539983972,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-11-01",
+      "value": -0.6772795379179891,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2015-12-01",
+      "value": -0.6364441347569778,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-01-01",
+      "value": -0.8295660555176354,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-02-01",
+      "value": -0.7675948422263068,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-03-01",
+      "value": -0.6575958078898025,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-04-01",
+      "value": -0.2657384232311368,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-05-01",
+      "value": -0.7416551030825651,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-06-01",
+      "value": -0.30336620590161795,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-07-01",
+      "value": -0.18820587685086787,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-08-01",
+      "value": 0.08614604890202664,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-09-01",
+      "value": -0.30350114916624676,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-10-01",
+      "value": -0.08039330449724645,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-11-01",
+      "value": -0.33275506928243387,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2016-12-01",
+      "value": -0.24739799953930272,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-01-01",
+      "value": 0.16443523198564106,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-02-01",
+      "value": 0.16726044316301839,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-03-01",
+      "value": 0.08099600810989352,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-04-01",
+      "value": 0.0025540078365265868,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-05-01",
+      "value": -0.16105068270637177,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-06-01",
+      "value": 0.07692293840965118,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-07-01",
+      "value": 0.07760326216871777,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-08-01",
+      "value": 0.38334865698953785,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-09-01",
+      "value": 0.531215102945595,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-10-01",
+      "value": 0.7677893263515662,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-11-01",
+      "value": 0.8077709528963931,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2017-12-01",
+      "value": 0.6676230535791677,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-01-01",
+      "value": 0.5693407587973,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-02-01",
+      "value": 0.046139900699736135,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-03-01",
+      "value": 0.42427324847281006,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-04-01",
+      "value": 0.4982683829685447,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-05-01",
+      "value": 0.35617450190717465,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-06-01",
+      "value": 0.4112940996880921,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-07-01",
+      "value": 0.41784883059008504,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-08-01",
+      "value": 0.5215653626868079,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-09-01",
+      "value": 0.452824872028887,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-10-01",
+      "value": 0.5150624668816792,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-11-01",
+      "value": 0.43886401610233045,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2018-12-01",
+      "value": 0.4497045573772935,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-01-01",
+      "value": 0.5001909903880243,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-02-01",
+      "value": 0.12306536541263774,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-03-01",
+      "value": 0.20074744981325934,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-04-01",
+      "value": -0.0016291900313452818,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-05-01",
+      "value": -0.6370872546412494,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-06-01",
+      "value": -0.47328398493073875,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-07-01",
+      "value": -0.4597524843358842,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-08-01",
+      "value": -0.30637521558001524,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-09-01",
+      "value": 0.1204489578675396,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-10-01",
+      "value": 0.07136617836329082,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-11-01",
+      "value": 0.1376394292015043,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2019-12-01",
+      "value": 0.023139484760997014,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-01-01",
+      "value": 0.05568393363563543,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-02-01",
+      "value": 1.2240679555223275,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-03-01",
+      "value": 2.606468460085125,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-04-01",
+      "value": 3.347457834150304,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-05-01",
+      "value": 2.5668140698315094,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-06-01",
+      "value": 2.302421343506245,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-07-01",
+      "value": 2.9537192922234587,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-08-01",
+      "value": 1.4722765461710172,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-09-01",
+      "value": 0.6285714145836963,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-10-01",
+      "value": 0.10807450926135434,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-11-01",
+      "value": 0.7616931380103366,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2020-12-01",
+      "value": 1.7017795465512922,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-01-01",
+      "value": 1.340492694031397,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-02-01",
+      "value": 1.9700577306707443,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-03-01",
+      "value": 2.2846615409431794,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-04-01",
+      "value": 2.778002516458036,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-05-01",
+      "value": 3.059742988036034,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-06-01",
+      "value": 2.7645573073042136,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-07-01",
+      "value": 2.9658374495237094,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-08-01",
+      "value": 3.3289138237722593,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-09-01",
+      "value": 3.3901701782965814,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-10-01",
+      "value": 3.933061584035181,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-11-01",
+      "value": 4.356434167933983,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2021-12-01",
+      "value": 4.437920205886811,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-01-01",
+      "value": 3.7171231584583704,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-02-01",
+      "value": 2.8104062233937785,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-03-01",
+      "value": 2.8579273621884043,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-04-01",
+      "value": 3.5283286046294324,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-05-01",
+      "value": 2.7392808160159325,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-06-01",
+      "value": 2.412536577547505,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-07-01",
+      "value": 1.8258393972170206,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-08-01",
+      "value": 1.5093580189638032,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-09-01",
+      "value": 0.9927712231996458,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-10-01",
+      "value": 1.0971061515055007,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-11-01",
+      "value": 1.2666903064778512,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2022-12-01",
+      "value": 1.3414962170501301,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-01-01",
+      "value": 1.06665527506418,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-02-01",
+      "value": -0.2530745583303178,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-03-01",
+      "value": -1.184723040262444,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-04-01",
+      "value": -1.3263163808625684,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-05-01",
+      "value": -1.589288424399533,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-06-01",
+      "value": -1.1099178076204221,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-07-01",
+      "value": -0.91935128268821,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-08-01",
+      "value": -1.0976171961997496,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-09-01",
+      "value": -0.6622732056560962,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-10-01",
+      "value": -0.3855228153023417,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-11-01",
+      "value": 0.1894439104164497,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2023-12-01",
+      "value": -0.14840432074713983,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-01-01",
+      "value": -0.3458295752102853,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-02-01",
+      "value": -0.1913046747470857,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-03-01",
+      "value": -0.35920814798280104,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-04-01",
+      "value": -0.9736981573160804,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-05-01",
+      "value": -0.5840118135889109,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-06-01",
+      "value": -0.3542545820267419,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-07-01",
+      "value": -0.04405132985554801,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-08-01",
+      "value": 0.23457732426700137,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-09-01",
+      "value": 0.11689740810410273,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-10-01",
+      "value": -0.3849161177280194,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-11-01",
+      "value": -0.30758516003149944,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2024-12-01",
+      "value": -0.2926854520753879,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-01-01",
+      "value": -0.20045722238525235,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-02-01",
+      "value": -0.012645888433054276,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-03-01",
+      "value": -0.19676630433999617,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-04-01",
+      "value": -0.23792340268957654,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-05-01",
+      "value": 0.2905072659107066,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-06-01",
+      "value": 0.08928465249305521,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-07-01",
+      "value": 0.0238643684679093,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-08-01",
+      "value": -0.0828204966360811,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-09-01",
+      "value": -0.022889459180702485,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-10-01",
+      "value": -0.07520231018693987,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-11-01",
+      "value": -0.12748886454039132,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2025-12-01",
+      "value": 0.5748853980569322,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2026-01-01",
+      "value": 0.47299309563558417,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2026-02-01",
+      "value": 0.5792860242144381,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2026-03-01",
+      "value": 0.6767299118883605,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2026-04-01",
+      "value": 1.842277174877714,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2026-05-01",
+      "value": 1.809637262093208,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2026-06-01",
+      "value": 1.1851217535544913,
+      "status": "VALID"
+    },
+    {
+      "observationDate": "2026-07-01",
+      "value": 0.8047372970147212,
+      "status": "VALID"
+    }
+  ]
+}

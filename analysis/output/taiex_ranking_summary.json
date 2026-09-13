@@ -1,0 +1,774 @@
+{
+  "generatedAt": "2026-09-10T08:27:55.377Z",
+  "taiex": {
+    "ticker": "^TWII",
+    "provider": "Yahoo Finance",
+    "priceField": "adjusted close",
+    "priceHistory": "1997-07-31 to 2026-09-10",
+    "returnDefinition": "100 * (month-end price / prior month-end price - 1)"
+  },
+  "modelA": {
+    "label": "Model A",
+    "sampleStart": "2005-01",
+    "sampleEnd": "2026-03",
+    "n": 254,
+    "maxlags": 4,
+    "rSquared": 0.33488712270732424,
+    "adjustedRSquared": 0.27468293984893544,
+    "ranking": [
+      {
+        "rank": 1,
+        "indicator": "yield_curve_10y2y",
+        "indicatorName": "10Y–2Y Yield Curve",
+        "coefficient": 2.72035127720963,
+        "absoluteCoefficient": 2.72035127720963,
+        "sign": "POSITIVE",
+        "hacStandardError": 1.2042880991319627,
+        "tStatistic": 2.2588874532351757,
+        "pValue": 0.02389031264841668,
+        "vif": 20.17393859806007
+      },
+      {
+        "rank": 2,
+        "indicator": "credit_card_delinquency",
+        "indicatorName": "Credit Card Delinquency",
+        "coefficient": 2.702882130045119,
+        "absoluteCoefficient": 2.702882130045119,
+        "sign": "POSITIVE",
+        "hacStandardError": 0.9853444846753123,
+        "tStatistic": 2.7430834313095733,
+        "pValue": 0.006086631304370371,
+        "vif": 13.88303239803342
+      },
+      {
+        "rank": 3,
+        "indicator": "cpi_core_cpi:headline",
+        "indicatorName": "Headline CPI",
+        "coefficient": -2.6616927516288778,
+        "absoluteCoefficient": 2.6616927516288778,
+        "sign": "NEGATIVE",
+        "hacStandardError": 2.3117761402375265,
+        "tStatistic": -1.1513626710220302,
+        "pValue": 0.24958317801648855,
+        "vif": 104.81870869646711
+      },
+      {
+        "rank": 4,
+        "indicator": "yield_curve_10y3m",
+        "indicatorName": "10Y–3M Yield Curve",
+        "coefficient": -2.50385209545764,
+        "absoluteCoefficient": 2.50385209545764,
+        "sign": "NEGATIVE",
+        "hacStandardError": 1.1228077427754846,
+        "tStatistic": -2.229991832144239,
+        "pValue": 0.02574789989555848,
+        "vif": 17.31262117718549
+      },
+      {
+        "rank": 5,
+        "indicator": "vix",
+        "indicatorName": "VIX",
+        "coefficient": -2.3686530604820857,
+        "absoluteCoefficient": 2.3686530604820857,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.5001957986593829,
+        "tStatistic": -4.73545173076326,
+        "pValue": 0.0000021883115617349347,
+        "vif": 3.2476759903784744
+      },
+      {
+        "rank": 6,
+        "indicator": "cpi_core_cpi:core",
+        "indicatorName": "Core CPI",
+        "coefficient": 2.134088421098487,
+        "absoluteCoefficient": 2.134088421098487,
+        "sign": "POSITIVE",
+        "hacStandardError": 0.7469021689382459,
+        "tStatistic": 2.8572529440263734,
+        "pValue": 0.004273380881763877,
+        "vif": 10.047798677609311
+      },
+      {
+        "rank": 7,
+        "indicator": "underemployment",
+        "indicatorName": "U-6 Underemployment",
+        "coefficient": -2.063153357776022,
+        "absoluteCoefficient": 2.063153357776022,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.849673437844893,
+        "tStatistic": -2.428172125762802,
+        "pValue": 0.015175138228586071,
+        "vif": 8.208112025052182
+      },
+      {
+        "rank": 8,
+        "indicator": "gscpi",
+        "indicatorName": "Global Supply Chain Pressure",
+        "coefficient": 2.0454117959165465,
+        "absoluteCoefficient": 2.0454117959165465,
+        "sign": "POSITIVE",
+        "hacStandardError": 0.5404291719720519,
+        "tStatistic": 3.7847916100693477,
+        "pValue": 0.00015388794827098096,
+        "vif": 2.9670655010514846
+      },
+      {
+        "rank": 9,
+        "indicator": "sahm_rule",
+        "indicatorName": "Sahm Rule",
+        "coefficient": 1.4181487987244343,
+        "absoluteCoefficient": 1.4181487987244343,
+        "sign": "POSITIVE",
+        "hacStandardError": 0.4875531915897904,
+        "tStatistic": 2.9087058052070214,
+        "pValue": 0.003629416660403617,
+        "vif": 4.056403260010212
+      },
+      {
+        "rank": 10,
+        "indicator": "household_debt_service_ratio",
+        "indicatorName": "Household Debt Service Ratio",
+        "coefficient": -1.0259988931786812,
+        "absoluteCoefficient": 1.0259988931786812,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.9960452428678735,
+        "tStatistic": -1.0300725800612864,
+        "pValue": 0.3029759782654464,
+        "vif": 16.17065897944759
+      },
+      {
+        "rank": 11,
+        "indicator": "nonfarm_payrolls",
+        "indicatorName": "Nonfarm Payrolls",
+        "coefficient": -0.9012886252946011,
+        "absoluteCoefficient": 0.9012886252946011,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.17031745868080916,
+        "tStatistic": -5.291815837762705,
+        "pValue": 1.21358539439953e-7,
+        "vif": 1.3955397711888908
+      },
+      {
+        "rank": 12,
+        "indicator": "durable_goods",
+        "indicatorName": "Durable Goods Orders",
+        "coefficient": 0.6883181665282795,
+        "absoluteCoefficient": 0.6883181665282795,
+        "sign": "POSITIVE",
+        "hacStandardError": 0.5200281455852779,
+        "tStatistic": 1.3236171395176999,
+        "pValue": 0.18563036204798067,
+        "vif": 3.9368488229288987
+      },
+      {
+        "rank": 13,
+        "indicator": "consumer_confidence",
+        "indicatorName": "University of Michigan Consumer Sentiment",
+        "coefficient": -0.6119691867693888,
+        "absoluteCoefficient": 0.6119691867693888,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.4724399491902104,
+        "tStatistic": -1.295337508647056,
+        "pValue": 0.19520396143143715,
+        "vif": 3.8133783369450955
+      },
+      {
+        "rank": 14,
+        "indicator": "trade_policy_uncertainty",
+        "indicatorName": "Trade Policy Uncertainty",
+        "coefficient": 0.5057344652200305,
+        "absoluteCoefficient": 0.5057344652200305,
+        "sign": "POSITIVE",
+        "hacStandardError": 0.3570887378807596,
+        "tStatistic": 1.4162711157496857,
+        "pValue": 0.15669624358828016,
+        "vif": 2.0517084936006786
+      },
+      {
+        "rank": 15,
+        "indicator": "permits_starts:permits",
+        "indicatorName": "Building Permits",
+        "coefficient": -0.4994931858407441,
+        "absoluteCoefficient": 0.4994931858407441,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.5160127180560364,
+        "tStatistic": -0.967986191740533,
+        "pValue": 0.3330512605488454,
+        "vif": 3.6925320207015564
+      },
+      {
+        "rank": 16,
+        "indicator": "global_epu",
+        "indicatorName": "Global Economic Policy Uncertainty",
+        "coefficient": -0.4483481015456883,
+        "absoluteCoefficient": 0.4483481015456883,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.39496010487744726,
+        "tStatistic": -1.1351731377649064,
+        "pValue": 0.2563028889447543,
+        "vif": 2.2906407122051977
+      },
+      {
+        "rank": 17,
+        "indicator": "credit_spread_baa10y",
+        "indicatorName": "Baa–10Y Credit Spread",
+        "coefficient": 0.32115193449913193,
+        "absoluteCoefficient": 0.32115193449913193,
+        "sign": "POSITIVE",
+        "hacStandardError": 0.4938724477077552,
+        "tStatistic": 0.6502730330264767,
+        "pValue": 0.5155157483032282,
+        "vif": 3.6809469637089363
+      },
+      {
+        "rank": 18,
+        "indicator": "global_gpr",
+        "indicatorName": "Global GPR",
+        "coefficient": -0.26887919077538897,
+        "absoluteCoefficient": 0.26887919077538897,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.2653516530240533,
+        "tStatistic": -1.0132938224093744,
+        "pValue": 0.31091986735935473,
+        "vif": 1.3091948313510153
+      },
+      {
+        "rank": 19,
+        "indicator": "pce_price_index",
+        "indicatorName": "PCE Inflation",
+        "coefficient": -0.19086878299214582,
+        "absoluteCoefficient": 0.19086878299214582,
+        "sign": "NEGATIVE",
+        "hacStandardError": 2.8362896880039683,
+        "tStatistic": -0.06729523567335932,
+        "pValue": 0.9463465305777006,
+        "vif": 137.51126451426242
+      },
+      {
+        "rank": 20,
+        "indicator": "tips_breakeven",
+        "indicatorName": "10Y TIPS Breakeven",
+        "coefficient": -0.16706405465464053,
+        "absoluteCoefficient": 0.16706405465464053,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.480958270942047,
+        "tStatistic": -0.34735665180975933,
+        "pValue": 0.7283235264588126,
+        "vif": 4.249086039137829
+      },
+      {
+        "rank": 21,
+        "indicator": "taiwan_cpi",
+        "indicatorName": "Taiwan CPI",
+        "coefficient": 0.15063826457906537,
+        "absoluteCoefficient": 0.15063826457906537,
+        "sign": "POSITIVE",
+        "hacStandardError": 0.41592869823078227,
+        "tStatistic": 0.3621732888829955,
+        "pValue": 0.7172226635310994,
+        "vif": 2.8057363277531646
+      }
+    ],
+    "highCorrelations": [
+      {
+        "indicatorA": "pce_price_index",
+        "indicatorB": "cpi_core_cpi:headline",
+        "correlation": 0.9906716762419723
+      },
+      {
+        "indicatorA": "pce_price_index",
+        "indicatorB": "cpi_core_cpi:core",
+        "correlation": 0.8088983475314945
+      },
+      {
+        "indicatorA": "yield_curve_10y3m",
+        "indicatorB": "yield_curve_10y2y",
+        "correlation": 0.9418237047791181
+      },
+      {
+        "indicatorA": "household_debt_service_ratio",
+        "indicatorB": "credit_card_delinquency",
+        "correlation": 0.8363922604248046
+      }
+    ]
+  },
+  "modelB": {
+    "label": "Model B",
+    "sampleStart": "2003-01",
+    "sampleEnd": "2026-06",
+    "n": 281,
+    "maxlags": 5,
+    "rSquared": 0.28778545064170835,
+    "adjustedRSquared": 0.23299971607568593,
+    "ranking": [
+      {
+        "rank": 1,
+        "indicator": "cpi_core_cpi:headline",
+        "indicatorName": "Headline CPI",
+        "coefficient": -6.546697745540081,
+        "absoluteCoefficient": 6.546697745540081,
+        "sign": "NEGATIVE",
+        "hacStandardError": 2.4132313300192685,
+        "tStatistic": -2.7128347225161416,
+        "pValue": 0.006671139131051884,
+        "vif": 81.32230516204139
+      },
+      {
+        "rank": 2,
+        "indicator": "pce_price_index",
+        "indicatorName": "PCE Inflation",
+        "coefficient": 4.878399245229948,
+        "absoluteCoefficient": 4.878399245229948,
+        "sign": "POSITIVE",
+        "hacStandardError": 2.756056748710603,
+        "tStatistic": 1.7700648753013757,
+        "pValue": 0.07671624133399058,
+        "vif": 106.29990986138846
+      },
+      {
+        "rank": 3,
+        "indicator": "yield_curve_10y2y",
+        "indicatorName": "10Y–2Y Yield Curve",
+        "coefficient": 2.729014891083898,
+        "absoluteCoefficient": 2.729014891083898,
+        "sign": "POSITIVE",
+        "hacStandardError": 1.315082872448885,
+        "tStatistic": 2.0751657163643658,
+        "pValue": 0.03797104899424886,
+        "vif": 17.974375071590007
+      },
+      {
+        "rank": 4,
+        "indicator": "vix",
+        "indicatorName": "VIX",
+        "coefficient": -2.7189655374900354,
+        "absoluteCoefficient": 2.7189655374900354,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.5320761096435173,
+        "tStatistic": -5.110106408107104,
+        "pValue": 3.225431397524403e-7,
+        "vif": 3.125984818400414
+      },
+      {
+        "rank": 5,
+        "indicator": "yield_curve_10y3m",
+        "indicatorName": "10Y–3M Yield Curve",
+        "coefficient": -2.5228109417586557,
+        "absoluteCoefficient": 2.5228109417586557,
+        "sign": "NEGATIVE",
+        "hacStandardError": 1.1609715529473346,
+        "tStatistic": -2.173017017819298,
+        "pValue": 0.02977893133499343,
+        "vif": 15.050916082816938
+      },
+      {
+        "rank": 6,
+        "indicator": "gscpi",
+        "indicatorName": "Global Supply Chain Pressure",
+        "coefficient": 2.0495131694751603,
+        "absoluteCoefficient": 2.0495131694751603,
+        "sign": "POSITIVE",
+        "hacStandardError": 0.6157290349841437,
+        "tStatistic": 3.328595945662916,
+        "pValue": 0.0008729624208836384,
+        "vif": 2.7861298661232548
+      },
+      {
+        "rank": 7,
+        "indicator": "credit_card_delinquency",
+        "indicatorName": "Credit Card Delinquency",
+        "coefficient": 1.9372085758453308,
+        "absoluteCoefficient": 1.9372085758453308,
+        "sign": "POSITIVE",
+        "hacStandardError": 0.5950852498149747,
+        "tStatistic": 3.255346316259145,
+        "pValue": 0.0011326640529305543,
+        "vif": 4.19026959781386
+      },
+      {
+        "rank": 8,
+        "indicator": "cpi_core_cpi:core",
+        "indicatorName": "Core CPI",
+        "coefficient": 1.606039881349502,
+        "absoluteCoefficient": 1.606039881349502,
+        "sign": "POSITIVE",
+        "hacStandardError": 0.7358964517328199,
+        "tStatistic": 2.182426450851543,
+        "pValue": 0.02907797184139893,
+        "vif": 6.665981529857494
+      },
+      {
+        "rank": 9,
+        "indicator": "underemployment",
+        "indicatorName": "U-6 Underemployment",
+        "coefficient": -0.9622008363105118,
+        "absoluteCoefficient": 0.9622008363105118,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.7705061202580835,
+        "tStatistic": -1.2487906468390146,
+        "pValue": 0.2117417928078822,
+        "vif": 5.998355179643918
+      },
+      {
+        "rank": 10,
+        "indicator": "sahm_rule",
+        "indicatorName": "Sahm Rule",
+        "coefficient": 0.9074266892118613,
+        "absoluteCoefficient": 0.9074266892118613,
+        "sign": "POSITIVE",
+        "hacStandardError": 0.522666242722301,
+        "tStatistic": 1.7361494105407307,
+        "pValue": 0.08253734241052979,
+        "vif": 3.246287570372193
+      },
+      {
+        "rank": 11,
+        "indicator": "tips_breakeven",
+        "indicatorName": "10Y TIPS Breakeven",
+        "coefficient": -0.7069274031338163,
+        "absoluteCoefficient": 0.7069274031338163,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.4460210296942368,
+        "tStatistic": -1.5849642865907916,
+        "pValue": 0.11297445716887466,
+        "vif": 3.9505655102833632
+      },
+      {
+        "rank": 12,
+        "indicator": "nonfarm_payrolls",
+        "indicatorName": "Nonfarm Payrolls",
+        "coefficient": -0.6280453002708318,
+        "absoluteCoefficient": 0.6280453002708318,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.1882562969998167,
+        "tStatistic": -3.3361184208963985,
+        "pValue": 0.0008496817300478465,
+        "vif": 1.3340504446328132
+      },
+      {
+        "rank": 13,
+        "indicator": "consumer_confidence",
+        "indicatorName": "University of Michigan Consumer Sentiment",
+        "coefficient": -0.6127498118330756,
+        "absoluteCoefficient": 0.6127498118330756,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.4796358656236123,
+        "tStatistic": -1.277531260170445,
+        "pValue": 0.2014148887702525,
+        "vif": 3.5798025055340768
+      },
+      {
+        "rank": 14,
+        "indicator": "global_epu",
+        "indicatorName": "Global Economic Policy Uncertainty",
+        "coefficient": -0.5940091472748837,
+        "absoluteCoefficient": 0.5940091472748837,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.3885137434284448,
+        "tStatistic": -1.528926987326219,
+        "pValue": 0.12628258759061328,
+        "vif": 2.2065198500354977
+      },
+      {
+        "rank": 15,
+        "indicator": "trade_policy_uncertainty",
+        "indicatorName": "Trade Policy Uncertainty",
+        "coefficient": 0.3503107259613158,
+        "absoluteCoefficient": 0.3503107259613158,
+        "sign": "POSITIVE",
+        "hacStandardError": 0.3495655818247968,
+        "tStatistic": 1.0021316290140156,
+        "pValue": 0.3162800451530339,
+        "vif": 1.9422602640247812
+      },
+      {
+        "rank": 16,
+        "indicator": "credit_spread_baa10y",
+        "indicatorName": "Baa–10Y Credit Spread",
+        "coefficient": 0.3212505811302894,
+        "absoluteCoefficient": 0.3212505811302894,
+        "sign": "POSITIVE",
+        "hacStandardError": 0.48996195931432995,
+        "tStatistic": 0.6556643327572999,
+        "pValue": 0.512039995737988,
+        "vif": 3.293479834051373
+      },
+      {
+        "rank": 17,
+        "indicator": "permits_starts:permits",
+        "indicatorName": "Building Permits",
+        "coefficient": 0.19904328344776057,
+        "absoluteCoefficient": 0.19904328344776057,
+        "sign": "POSITIVE",
+        "hacStandardError": 0.3986281959995497,
+        "tStatistic": 0.499320633726535,
+        "pValue": 0.6175535191182573,
+        "vif": 2.4207084231644416
+      },
+      {
+        "rank": 18,
+        "indicator": "taiwan_cpi",
+        "indicatorName": "Taiwan CPI",
+        "coefficient": -0.1480061061894538,
+        "absoluteCoefficient": 0.1480061061894538,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.42014588713485995,
+        "tStatistic": -0.35227312874288896,
+        "pValue": 0.7246335676974134,
+        "vif": 2.4140975379854255
+      },
+      {
+        "rank": 19,
+        "indicator": "durable_goods",
+        "indicatorName": "Durable Goods Orders",
+        "coefficient": -0.09636432889807423,
+        "absoluteCoefficient": 0.09636432889807423,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.5087597150493897,
+        "tStatistic": -0.1894102973320506,
+        "pValue": 0.8497712876199497,
+        "vif": 3.242730776138046
+      },
+      {
+        "rank": 20,
+        "indicator": "global_gpr",
+        "indicatorName": "Global GPR",
+        "coefficient": -0.01317544327857401,
+        "absoluteCoefficient": 0.01317544327857401,
+        "sign": "NEGATIVE",
+        "hacStandardError": 0.2425700250924409,
+        "tStatistic": -0.05431604038278425,
+        "pValue": 0.9566832329417454,
+        "vif": 1.2567881477331753
+      }
+    ],
+    "highCorrelations": [
+      {
+        "indicatorA": "pce_price_index",
+        "indicatorB": "cpi_core_cpi:headline",
+        "correlation": 0.9894298254009152
+      },
+      {
+        "indicatorA": "yield_curve_10y3m",
+        "indicatorB": "yield_curve_10y2y",
+        "correlation": 0.9455787705979697
+      }
+    ],
+    "excludedIndicators": [
+      "household_debt_service_ratio"
+    ],
+    "exclusionReason": "Removing household_debt_service_ratio increases the complete-case sample by 27 months; it is the minimum one-indicator exclusion producing at least 12 additional observations."
+  },
+  "comparison": [
+    {
+      "indicator": "nonfarm_payrolls",
+      "indicatorName": "Nonfarm Payrolls",
+      "modelARank": 11,
+      "modelBRank": 12,
+      "modelASign": "NEGATIVE",
+      "modelBSign": "NEGATIVE",
+      "top9InBoth": false,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "underemployment",
+      "indicatorName": "U-6 Underemployment",
+      "modelARank": 7,
+      "modelBRank": 9,
+      "modelASign": "NEGATIVE",
+      "modelBSign": "NEGATIVE",
+      "top9InBoth": true,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "sahm_rule",
+      "indicatorName": "Sahm Rule",
+      "modelARank": 9,
+      "modelBRank": 10,
+      "modelASign": "POSITIVE",
+      "modelBSign": "POSITIVE",
+      "top9InBoth": false,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "consumer_confidence",
+      "indicatorName": "University of Michigan Consumer Sentiment",
+      "modelARank": 13,
+      "modelBRank": 13,
+      "modelASign": "NEGATIVE",
+      "modelBSign": "NEGATIVE",
+      "top9InBoth": false,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "durable_goods",
+      "indicatorName": "Durable Goods Orders",
+      "modelARank": 12,
+      "modelBRank": 19,
+      "modelASign": "POSITIVE",
+      "modelBSign": "NEGATIVE",
+      "top9InBoth": false,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "permits_starts:permits",
+      "indicatorName": "Building Permits",
+      "modelARank": 15,
+      "modelBRank": 17,
+      "modelASign": "NEGATIVE",
+      "modelBSign": "POSITIVE",
+      "top9InBoth": false,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "pce_price_index",
+      "indicatorName": "PCE Inflation",
+      "modelARank": 19,
+      "modelBRank": 2,
+      "modelASign": "NEGATIVE",
+      "modelBSign": "POSITIVE",
+      "top9InBoth": false,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "cpi_core_cpi:headline",
+      "indicatorName": "Headline CPI",
+      "modelARank": 3,
+      "modelBRank": 1,
+      "modelASign": "NEGATIVE",
+      "modelBSign": "NEGATIVE",
+      "top9InBoth": true,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "cpi_core_cpi:core",
+      "indicatorName": "Core CPI",
+      "modelARank": 6,
+      "modelBRank": 8,
+      "modelASign": "POSITIVE",
+      "modelBSign": "POSITIVE",
+      "top9InBoth": true,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "taiwan_cpi",
+      "indicatorName": "Taiwan CPI",
+      "modelARank": 21,
+      "modelBRank": 18,
+      "modelASign": "POSITIVE",
+      "modelBSign": "NEGATIVE",
+      "top9InBoth": false,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "tips_breakeven",
+      "indicatorName": "10Y TIPS Breakeven",
+      "modelARank": 20,
+      "modelBRank": 11,
+      "modelASign": "NEGATIVE",
+      "modelBSign": "NEGATIVE",
+      "top9InBoth": false,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "vix",
+      "indicatorName": "VIX",
+      "modelARank": 5,
+      "modelBRank": 4,
+      "modelASign": "NEGATIVE",
+      "modelBSign": "NEGATIVE",
+      "top9InBoth": true,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "credit_spread_baa10y",
+      "indicatorName": "Baa–10Y Credit Spread",
+      "modelARank": 17,
+      "modelBRank": 16,
+      "modelASign": "POSITIVE",
+      "modelBSign": "POSITIVE",
+      "top9InBoth": false,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "yield_curve_10y3m",
+      "indicatorName": "10Y–3M Yield Curve",
+      "modelARank": 4,
+      "modelBRank": 5,
+      "modelASign": "NEGATIVE",
+      "modelBSign": "NEGATIVE",
+      "top9InBoth": true,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "yield_curve_10y2y",
+      "indicatorName": "10Y–2Y Yield Curve",
+      "modelARank": 1,
+      "modelBRank": 3,
+      "modelASign": "POSITIVE",
+      "modelBSign": "POSITIVE",
+      "top9InBoth": true,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "gscpi",
+      "indicatorName": "Global Supply Chain Pressure",
+      "modelARank": 8,
+      "modelBRank": 6,
+      "modelASign": "POSITIVE",
+      "modelBSign": "POSITIVE",
+      "top9InBoth": true,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "global_gpr",
+      "indicatorName": "Global GPR",
+      "modelARank": 18,
+      "modelBRank": 20,
+      "modelASign": "NEGATIVE",
+      "modelBSign": "NEGATIVE",
+      "top9InBoth": false,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "global_epu",
+      "indicatorName": "Global Economic Policy Uncertainty",
+      "modelARank": 16,
+      "modelBRank": 14,
+      "modelASign": "NEGATIVE",
+      "modelBSign": "NEGATIVE",
+      "top9InBoth": false,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "trade_policy_uncertainty",
+      "indicatorName": "Trade Policy Uncertainty",
+      "modelARank": 14,
+      "modelBRank": 15,
+      "modelASign": "POSITIVE",
+      "modelBSign": "POSITIVE",
+      "top9InBoth": false,
+      "excludedFromModelB": false
+    },
+    {
+      "indicator": "household_debt_service_ratio",
+      "indicatorName": "Household Debt Service Ratio",
+      "modelARank": 10,
+      "modelBRank": null,
+      "modelASign": "NEGATIVE",
+      "modelBSign": null,
+      "top9InBoth": false,
+      "excludedFromModelB": true
+    },
+    {
+      "indicator": "credit_card_delinquency",
+      "indicatorName": "Credit Card Delinquency",
+      "modelARank": 2,
+      "modelBRank": 7,
+      "modelASign": "POSITIVE",
+      "modelBSign": "POSITIVE",
+      "top9InBoth": true,
+      "excludedFromModelB": false
+    }
+  ]
+}

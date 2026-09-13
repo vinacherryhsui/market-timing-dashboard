@@ -1,0 +1,22 @@
+indicator,indicatorName,modelARank,modelBRank,modelASign,modelBSign,top9InBoth,excludedFromModelB
+nonfarm_payrolls,Nonfarm Payrolls,11,12,NEGATIVE,NEGATIVE,false,false
+underemployment,U-6 Underemployment,7,9,NEGATIVE,NEGATIVE,true,false
+sahm_rule,Sahm Rule,9,10,POSITIVE,POSITIVE,false,false
+consumer_confidence,University of Michigan Consumer Sentiment,13,13,NEGATIVE,NEGATIVE,false,false
+durable_goods,Durable Goods Orders,12,19,POSITIVE,NEGATIVE,false,false
+permits_starts:permits,Building Permits,15,17,NEGATIVE,POSITIVE,false,false
+pce_price_index,PCE Inflation,19,2,NEGATIVE,POSITIVE,false,false
+cpi_core_cpi:headline,Headline CPI,3,1,NEGATIVE,NEGATIVE,true,false
+cpi_core_cpi:core,Core CPI,6,8,POSITIVE,POSITIVE,true,false
+taiwan_cpi,Taiwan CPI,21,18,POSITIVE,NEGATIVE,false,false
+tips_breakeven,10Y TIPS Breakeven,20,11,NEGATIVE,NEGATIVE,false,false
+vix,VIX,5,4,NEGATIVE,NEGATIVE,true,false
+credit_spread_baa10y,Baa–10Y Credit Spread,17,16,POSITIVE,POSITIVE,false,false
+yield_curve_10y3m,10Y–3M Yield Curve,4,5,NEGATIVE,NEGATIVE,true,false
+yield_curve_10y2y,10Y–2Y Yield Curve,1,3,POSITIVE,POSITIVE,true,false
+gscpi,Global Supply Chain Pressure,8,6,POSITIVE,POSITIVE,true,false
+global_gpr,Global GPR,18,20,NEGATIVE,NEGATIVE,false,false
+global_epu,Global Economic Policy Uncertainty,16,14,NEGATIVE,NEGATIVE,false,false
+trade_policy_uncertainty,Trade Policy Uncertainty,14,15,POSITIVE,POSITIVE,false,false
+household_debt_service_ratio,Household Debt Service Ratio,10,,NEGATIVE,,false,true
+credit_card_delinquency,Credit Card Delinquency,2,7,POSITIVE,POSITIVE,true,false

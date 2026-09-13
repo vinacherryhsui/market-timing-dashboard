@@ -1,0 +1,112 @@
+{
+  "provider": "FRED",
+  "datasetId": "SAHMREALTIME",
+  "indicatorId": "sahm_rule",
+  "retrievedAt": "2026-09-10T07:32:30.126Z",
+  "observations": [
+    {
+      "provider": "FRED",
+      "datasetId": "SAHMREALTIME",
+      "indicatorId": "sahm_rule",
+      "observationDate": "2026-08-01",
+      "value": -0.07,
+      "unit": "Percentage Points",
+      "frequency": "Monthly",
+      "retrievedAt": "2026-09-10T07:32:30.126Z",
+      "status": "VALID",
+      "metadata": {
+        "seriesId": "SAHMREALTIME",
+        "title": "Real-time Sahm Rule Recession Indicator",
+        "observationStart": "1959-12-01",
+        "observationEnd": "2026-08-01",
+        "frequency": "Monthly",
+        "frequencyShort": "M",
+        "units": "Percentage Points",
+        "unitsShort": "Percentage Points",
+        "seasonalAdjustment": "Seasonally Adjusted",
+        "seasonalAdjustmentShort": "SA",
+        "lastUpdated": "2026-09-04 08:39:30-05",
+        "notes": "Sahm Recession Indicator signals the start of a recession when the three-month moving average of the national unemployment rate (U3) (https://fred.stlouisfed.org/series/UNRATE) rises by 0.50 percentage points or more relative to the minimum of the three-month averages from the previous 12 months.\r\n\r\nThis indicator is based on \"real-time\" data, that is, the unemployment rate (and the recent history of unemployment rates) that were available in a given month. The BLS revises the unemployment rate each year at the beginning of January, when the December unemployment rate for the prior year is published. Revisions to the seasonal factors can affect estimates in recent years. Otherwise the unemployment rate does not revise.",
+        "role": null
+      }
+    },
+    {
+      "provider": "FRED",
+      "datasetId": "SAHMREALTIME",
+      "indicatorId": "sahm_rule",
+      "observationDate": "2026-07-01",
+      "value": -0.03,
+      "unit": "Percentage Points",
+      "frequency": "Monthly",
+      "retrievedAt": "2026-09-10T07:32:30.126Z",
+      "status": "VALID",
+      "metadata": {
+        "seriesId": "SAHMREALTIME",
+        "title": "Real-time Sahm Rule Recession Indicator",
+        "observationStart": "1959-12-01",
+        "observationEnd": "2026-08-01",
+        "frequency": "Monthly",
+        "frequencyShort": "M",
+        "units": "Percentage Points",
+        "unitsShort": "Percentage Points",
+        "seasonalAdjustment": "Seasonally Adjusted",
+        "seasonalAdjustmentShort": "SA",
+        "lastUpdated": "2026-09-04 08:39:30-05",
+        "notes": "Sahm Recession Indicator signals the start of a recession when the three-month moving average of the national unemployment rate (U3) (https://fred.stlouisfed.org/series/UNRATE) rises by 0.50 percentage points or more relative to the minimum of the three-month averages from the previous 12 months.\r\n\r\nThis indicator is based on \"real-time\" data, that is, the unemployment rate (and the recent history of unemployment rates) that were available in a given month. The BLS revises the unemployment rate each year at the beginning of January, when the December unemployment rate for the prior year is published. Revisions to the seasonal factors can affect estimates in recent years. Otherwise the unemployment rate does not revise.",
+        "role": null
+      }
+    },
+    {
+      "provider": "FRED",
+      "datasetId": "SAHMREALTIME",
+      "indicatorId": "sahm_rule",
+      "observationDate": "2026-06-01",
+      "value": 0.07,
+      "unit": "Percentage Points",
+      "frequency": "Monthly",
+      "retrievedAt": "2026-09-10T07:32:30.126Z",
+      "status": "VALID",
+      "metadata": {
+        "seriesId": "SAHMREALTIME",
+        "title": "Real-time Sahm Rule Recession Indicator",
+        "observationStart": "1959-12-01",
+        "observationEnd": "2026-08-01",
+        "frequency": "Monthly",
+        "frequencyShort": "M",
+        "units": "Percentage Points",
+        "unitsShort": "Percentage Points",
+        "seasonalAdjustment": "Seasonally Adjusted",
+        "seasonalAdjustmentShort": "SA",
+        "lastUpdated": "2026-09-04 08:39:30-05",
+        "notes": "Sahm Recession Indicator signals the start of a recession when the three-month moving average of the national unemployment rate (U3) (https://fred.stlouisfed.org/series/UNRATE) rises by 0.50 percentage points or more relative to the minimum of the three-month averages from the previous 12 months.\r\n\r\nThis indicator is based on \"real-time\" data, that is, the unemployment rate (and the recent history of unemployment rates) that were available in a given month. The BLS revises the unemployment rate each year at the beginning of January, when the December unemployment rate for the prior year is published. Revisions to the seasonal factors can affect estimates in recent years. Otherwise the unemployment rate does not revise.",
+        "role": null
+      }
+    },
+    {
+      "provider": "FRED",
+      "datasetId": "SAHMREALTIME",
+      "indicatorId": "sahm_rule",
+      "observationDate": "2026-05-01",
+      "value": 0.1,
+      "unit": "Percentage Points",
+      "frequency": "Monthly",
+      "retrievedAt": "2026-09-10T07:32:30.126Z",
+      "status": "VALID",
+      "metadata": {
+        "seriesId": "SAHMREALTIME",
+        "title": "Real-time Sahm Rule Recession Indicator",
+        "observationStart": "1959-12-01",
+        "observationEnd": "2026-08-01",
+        "frequency": "Monthly",
+        "frequencyShort": "M",
+        "units": "Percentage Points",
+        "unitsShort": "Percentage Points",
+        "seasonalAdjustment": "Seasonally Adjusted",
+        "seasonalAdjustmentShort": "SA",
+        "lastUpdated": "2026-09-04 08:39:30-05",
+        "notes": "Sahm Recession Indicator signals the start of a recession when the three-month moving average of the national unemployment rate (U3) (https://fred.stlouisfed.org/series/UNRATE) rises by 0.50 percentage points or more relative to the minimum of the three-month averages from the previous 12 months.\r\n\r\nThis indicator is based on \"real-time\" data, that is, the unemployment rate (and the recent history of unemployment rates) that were available in a given month. The BLS revises the unemployment rate each year at the beginning of January, when the December unemployment rate for the prior year is published. Revisions to the seasonal factors can affect estimates in recent years. Otherwise the unemployment rate does not revise.",
+        "role": null
+      }
+    }
+  ]
+}

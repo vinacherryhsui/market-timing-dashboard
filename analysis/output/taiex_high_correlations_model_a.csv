@@ -1,0 +1,5 @@
+indicatorA,indicatorB,correlation
+pce_price_index,cpi_core_cpi:headline,0.9906716762419723
+pce_price_index,cpi_core_cpi:core,0.8088983475314945
+yield_curve_10y3m,yield_curve_10y2y,0.9418237047791181
+household_debt_service_ratio,credit_card_delinquency,0.8363922604248046

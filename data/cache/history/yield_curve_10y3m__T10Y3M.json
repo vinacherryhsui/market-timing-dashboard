@@ -1,0 +1,112 @@
+{
+  "provider": "FRED",
+  "datasetId": "T10Y3M",
+  "indicatorId": "yield_curve_10y3m",
+  "retrievedAt": "2026-09-10T07:32:30.131Z",
+  "observations": [
+    {
+      "provider": "FRED",
+      "datasetId": "T10Y3M",
+      "indicatorId": "yield_curve_10y3m",
+      "observationDate": "2026-09-09",
+      "value": 0.88,
+      "unit": "Percent",
+      "frequency": "Daily",
+      "retrievedAt": "2026-09-10T07:32:30.131Z",
+      "status": "VALID",
+      "metadata": {
+        "seriesId": "T10Y3M",
+        "title": "10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity",
+        "observationStart": "1982-01-04",
+        "observationEnd": "2026-09-09",
+        "frequency": "Daily",
+        "frequencyShort": "D",
+        "units": "Percent",
+        "unitsShort": "%",
+        "seasonalAdjustment": "Not Seasonally Adjusted",
+        "seasonalAdjustmentShort": "NSA",
+        "lastUpdated": "2026-09-09 16:03:32-05",
+        "notes": "Series is calculated as the spread between 10-Year Treasury Constant Maturity (BC_10YEAR) and 3-Month Treasury Constant Maturity (BC_3MONTH).\nStarting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",
+        "role": null
+      }
+    },
+    {
+      "provider": "FRED",
+      "datasetId": "T10Y3M",
+      "indicatorId": "yield_curve_10y3m",
+      "observationDate": "2026-09-08",
+      "value": 0.86,
+      "unit": "Percent",
+      "frequency": "Daily",
+      "retrievedAt": "2026-09-10T07:32:30.131Z",
+      "status": "VALID",
+      "metadata": {
+        "seriesId": "T10Y3M",
+        "title": "10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity",
+        "observationStart": "1982-01-04",
+        "observationEnd": "2026-09-09",
+        "frequency": "Daily",
+        "frequencyShort": "D",
+        "units": "Percent",
+        "unitsShort": "%",
+        "seasonalAdjustment": "Not Seasonally Adjusted",
+        "seasonalAdjustmentShort": "NSA",
+        "lastUpdated": "2026-09-09 16:03:32-05",
+        "notes": "Series is calculated as the spread between 10-Year Treasury Constant Maturity (BC_10YEAR) and 3-Month Treasury Constant Maturity (BC_3MONTH).\nStarting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",
+        "role": null
+      }
+    },
+    {
+      "provider": "FRED",
+      "datasetId": "T10Y3M",
+      "indicatorId": "yield_curve_10y3m",
+      "observationDate": "2026-09-07",
+      "value": null,
+      "unit": "Percent",
+      "frequency": "Daily",
+      "retrievedAt": "2026-09-10T07:32:30.131Z",
+      "status": "MISSING",
+      "metadata": {
+        "seriesId": "T10Y3M",
+        "title": "10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity",
+        "observationStart": "1982-01-04",
+        "observationEnd": "2026-09-09",
+        "frequency": "Daily",
+        "frequencyShort": "D",
+        "units": "Percent",
+        "unitsShort": "%",
+        "seasonalAdjustment": "Not Seasonally Adjusted",
+        "seasonalAdjustmentShort": "NSA",
+        "lastUpdated": "2026-09-09 16:03:32-05",
+        "notes": "Series is calculated as the spread between 10-Year Treasury Constant Maturity (BC_10YEAR) and 3-Month Treasury Constant Maturity (BC_3MONTH).\nStarting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",
+        "role": null
+      }
+    },
+    {
+      "provider": "FRED",
+      "datasetId": "T10Y3M",
+      "indicatorId": "yield_curve_10y3m",
+      "observationDate": "2026-09-04",
+      "value": 0.87,
+      "unit": "Percent",
+      "frequency": "Daily",
+      "retrievedAt": "2026-09-10T07:32:30.131Z",
+      "status": "VALID",
+      "metadata": {
+        "seriesId": "T10Y3M",
+        "title": "10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity",
+        "observationStart": "1982-01-04",
+        "observationEnd": "2026-09-09",
+        "frequency": "Daily",
+        "frequencyShort": "D",
+        "units": "Percent",
+        "unitsShort": "%",
+        "seasonalAdjustment": "Not Seasonally Adjusted",
+        "seasonalAdjustmentShort": "NSA",
+        "lastUpdated": "2026-09-09 16:03:32-05",
+        "notes": "Series is calculated as the spread between 10-Year Treasury Constant Maturity (BC_10YEAR) and 3-Month Treasury Constant Maturity (BC_3MONTH).\nStarting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).",
+        "role": null
+      }
+    }
+  ]
+}
